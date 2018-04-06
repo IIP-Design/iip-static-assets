@@ -25,3 +25,5 @@ The Bureau of International Information Programs (IIP) belongs to the State Depa
 IIP supports people-to-people conversations with foreign publics on U.S. policy priorities. To carry out this mission, the bureau leverages digital communications technology to reach across platforms - from traditional forms of communications to new media channels. IIP takes a strategic, data-driven approach to develop multimedia, digital communications products and to manage an overseas network of bricks-and-mortar [American Spaces](https://americanspaces.state.gov/home/).
 
 Whether discussions take place in person or in virtual spaces, the bureau’s top goal is to connect people with policy through dialogue that is relatable and understandable.
+
+

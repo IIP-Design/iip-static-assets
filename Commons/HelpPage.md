@@ -28,7 +28,7 @@ The video content type is our first minimum viable product (MVP) for the Content
 
 ## Can anyone add content to the Commons?
 
-We are currently indexing sites from the Department of State, and only Department of State staff can use the Content Publisher to add content. However, if you are interested in indexing your site or using the Content Publisher, contact design@america.gov.
+We are currently indexing sites from the Department of State, and only Department of State staff can use the Content Publisher to add content. However, if you are interested in indexing your site or using the Content Publisher, contact [design@america.gov](mailto:design@america.gov).
 
 ## How do I share content from the Commons?
 
@@ -40,7 +40,7 @@ Currently the Content Commons features content available in the following langua
 
 ## How can I contact IIP for support?
 
-If you have any questions, please contact design@america.gov.
+If you have any questions, please contact [design@america.gov](mailto:design@america.gov).
 
 ## What happens to my content hosted on other properties when I delete it?
 
@@ -48,4 +48,4 @@ Content that has been added to other sites through an embed code or Content Comm
 
 ## What are upcoming features or updates for the Content Commons?
 
-We are working on adding additional content types, including articles, audio, PDFs, quizzes, and more. We are also adding additional features, starting with the ability to share content on other channels or by creating an embed code. Eventually, we will add additional features like user profiles, analytics, and more. To contact us about adding additional features or for more information on updates, send an email to design@america.gov.
+We are working on adding additional content types, including articles, audio, PDFs, quizzes, and more. We are also adding additional features, starting with the ability to share content on other channels or by creating an embed code. Eventually, we will add additional features like user profiles, analytics, and more. To contact us about adding additional features or for more information on updates, send an email to [design@america.gov](mailto:design@america.gov).

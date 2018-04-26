@@ -1,5 +1,3 @@
-## Privacy Policy
-
 We collect no personal information (PII) about you when you visit our site unless you choose to provide this information to us. Submitting personally identifiable information through our website is voluntary, but by doing so, you are giving your permission to use the information for the stated purpose. Not providing certain information may result in the inability to provide you with a service you desire.
 
 If you choose to provide us with PII on a Department website, through such methods as completing a web form or sending us an email, we will use that information to help us provide you the information or service you have requested, or to respond to your message. The information we may receive from you varies based on what you do when visiting our site.

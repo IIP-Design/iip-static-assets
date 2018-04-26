@@ -12,6 +12,8 @@ The Content Commons makes finding and sharing public diplomacy content a better 
 
 > ## [To get started, search or browse our content.](/)
 
+To request a video, ask questions, or provide feedback send us an email at [design@america.gov](mailto:design@ameirca.gov).
+
 ## Contact IIP
 For more information about the Content Commons, Content Publisher, or Content Distribution Platform (CDP), or to discuss opportunities to share or host content from IIP or the Department of State on your website, [contact IIP](mailto:design@america.gov).
 
@@ -25,5 +27,3 @@ The Bureau of International Information Programs (IIP) belongs to the State Depa
 IIP supports people-to-people conversations with foreign publics on U.S. policy priorities. To carry out this mission, the bureau leverages digital communications technology to reach across platforms - from traditional forms of communications to new media channels. IIP takes a strategic, data-driven approach to develop multimedia, digital communications products and to manage an overseas network of bricks-and-mortar [American Spaces](https://americanspaces.state.gov/home/).
 
 Whether discussions take place in person or in virtual spaces, the bureau’s top goal is to connect people with policy through dialogue that is relatable and understandable.
-
-

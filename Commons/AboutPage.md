@@ -10,9 +10,7 @@ The Content Commons is currently indexing videos with plans to add articles, cou
 
 The Content Commons makes finding and sharing public diplomacy content a better experience, to reach more people, tailor content to your audiences, and increase the influence of your content.
 
-> ## [To get started, search or browse our content.](/)
-
-To request a video, ask questions, or provide feedback send us an email at [design@america.gov](mailto:design@ameirca.gov).
+> ## To request a video, ask questions, or provide feedback send us an email at [design@america.gov](mailto:design@america.gov).
 
 ## Contact IIP
 For more information about the Content Commons, Content Publisher, or Content Distribution Platform (CDP), or to discuss opportunities to share or host content from IIP or the Department of State on your website, [contact IIP](mailto:design@america.gov).

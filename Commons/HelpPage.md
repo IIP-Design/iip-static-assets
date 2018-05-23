@@ -82,7 +82,7 @@ If after re-downloading you still aren't having better luck even though the file
 
 To rename a file, locate the file on your computer and move to another easy to find location such as C:\temp or your Desktop. Right click or Control click on the file and select “Rename from the options. Rename your .zip file to something simple (e.g., "madeinheights.zip") and try unzipping again.
 
-If you have tried all of the above and still have not given up we recommend reaching out to design@america.gov for additional support help. We promise to respond quickly.
+If you have tried all of the above and still have not given up we recommend reaching out to [design@america.gov](mailto:design@america.gov) for additional support help. We promise to respond quickly.
 
 ### I don’t see a Download option for the file I selected.  
 Not all files on the Content Commons are available for download. In certain cases content owners may designate that a file not be immediately available for download either because that content is still being worked on, is embargoed, or content is available via request only. For additional information about requesting videos please reach out to [design@america.gov](mailto:design@america.gov).

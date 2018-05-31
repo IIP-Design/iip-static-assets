@@ -10,7 +10,7 @@ The U.S. Department of State’s Bureau of International Information Programs (I
 
 ### Where do I start?
 
-Getting started is easy! Head to content.america.gov and start searching and browsing content.
+Getting started is easy! Head to commons.america.gov and start searching and browsing content.
 
 ### What types of content can I find or store in the Commons?
 

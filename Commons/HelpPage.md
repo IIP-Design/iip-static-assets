@@ -6,23 +6,53 @@ The Content Commons is the portal to search, discover, and share content from th
 
 ### Who manages the Content Commons?
 
-The U.S. Department of State’s Bureau of International Information Programs (IIP) manages the Content Commons, Content Publisher, and Content Distribution Platform (CDP).
+The U.S. Department of State’s Bureau of International Information Programs (IIP) manages the Content Commons and the Content Distribution Platform (CDP).
 
 ### Where do I start?
 
-Getting started is easy! Head to commons.america.gov and start searching and browsing content.
+Getting started is easy! Simply head to [commons.america.gov](https://commons.america.gov) and start searching or browsing content.
 
-### What types of content can I find or store in the Commons?
+### What types of content can I find or store in the Content Commons?
 
-Currently, only videos are available in the Content Commons from sites that have installed the Content Distribution Platform (CDP) plugin. However, we are working on adding articles, courses, audio, PDFs, and more.
+Currently, articles and videos are available in the Content Commons from ShareAmerica, Young African Leaders Initiative (YALI), Young Leaders of the Americas Initiative (YLAI), and IIP Video. 
 
-### Can anyone add content to the Commons?
+In the future more content sources will be added and we are working on adding PDFs, images, audio and other content types.
 
-We are currently indexing sites from the Department of State, and only Department of State staff can use the Content Publisher to add content. However, if you are interested in indexing your site or using the Content Publisher, contact [design@america.gov](mailto:design@america.gov).
+### Can anyone add content to the Content Commons?
 
-### How do I share content from the Commons?
+We are currently indexing sites from the Department of State, and only Department of State staff can use the Content Commons to add content. 
 
-You can download content directly from the Commons. Just click “download” on the piece of content. We are working on adding the ability to share content directly on your website by creating and copying an embed code. We are also adding features to share content through Facebook or Twitter directly from the Commons.
+However, if you are interested in indexing your site or adding content to the Content Commons, please contact [design@america.gov](mailto:design@america.gov).
+
+### How do I share content from the Content Commons?
+
+You can Download, Share, or Embed content directly from the Content Commons.
+
+#### Download
+* Videos
+    * Select the "Download video" icon on the top right of the video preview window. There you will see options to download the Video and .SRT files. 
+
+#### Share
+* Articles
+    * Select the "Share article" icon on the top right of the article preview window.
+    * To share directly to social media, select the Facebook or Twitter icons.
+    * To share a direct link to the article's source, copy the Direct Link.
+* Videos
+    * Select the "Share video" icon on the top right of the video preview window.
+    * To share directly to social media, select the Facebook or Twitter icons.
+    * To share a direct link to the video's preview page on the Content Commons, copy the Direct Link.
+
+#### Embed
+* Articles
+    * Select the "Embed this article" icon on the top right of the article preview window.
+    * Copy the embed code using the Copy button.
+    * Paste the embed code into the text editor of the site where you want to use the article.
+    * **Note**: You must be able to embed scripts within your site. If the embed code does not work, please contact your site administrator. 
+* Videos
+    * Select the "Embed video" icon on the top right of the video preview window.
+    * Copy the embed code using the Copy button.
+    * Paste the embed code into the text editor of the site where you want to use the video.
+    * **Note**: You must be able to embed videos from YouTube or Vimeo within your site. If the embed code does not work, please contact your site administrator.
 
 ### Is content available in my language?
 
@@ -34,7 +64,9 @@ If you have any questions, please contact [design@america.gov](mailto:design@ame
 
 ### What are upcoming features or updates for the Content Commons?
 
-We are working on adding additional content types, including articles, audio, PDFs, quizzes, and more. We are also adding additional features, starting with the ability to share content on other channels or by creating an embed code. Eventually, we will add additional features like user profiles, analytics, and more. To contact us about adding additional features or for more information on updates, send an email to [design@america.gov](mailto:design@america.gov).
+We are working on adding additional content types, including audio, PDFs, images, and more. Future enhancements throughout 2019, we will add additional features like user profiles, enhanced analytics, and more. 
+
+To contact us about adding additional features or for more information on updates, send an email to [design@america.gov](mailto:design@america.gov).
 
 ---
 
@@ -44,7 +76,7 @@ We are working on adding additional content types, including articles, audio, PD
 Not all video file formats are going to be available for all files. If you need a specific file format, type or file size contact [design@america.gov](mailto:design@america.gov).
 
 ### My download won't start. The download page isn't working. What now?
-We don’t mean to be un-diplomatic, but chances are very good your browser or network are to blame. Since we’re all in the diplomacy business, we hope you can accept our apologies: Lo siento. 抱歉. آسف. Pardon. Before our relations deteriorate, please try these helpful troubleshooting tips.
+We don’t mean to be un-diplomatic, but chances are very good that your browser or network are to blame. Since we’re all in the diplomacy business, we hope you can accept our apologies: Lo siento. 抱歉. آسف. Pardon. Before our relations deteriorate, please try these helpful troubleshooting tips.
 
 ### My download is taking FOREVER. How do I fix this?
 Go ahead and stop the download, then try clicking the link for downloading again (and if you're on wireless try plugging directly in). If the download stops again, or the speed is still slow, it could be that a firewall or other internet security tool is in the way.
@@ -107,7 +139,7 @@ Still have questions? Please contact [design@america.gov](mailto:design@america.
 
 ### What is the Content Distribution Platform (CDP)?
 
-The CDP is a plugin to index content from a website into the CDP, so that it can be synced on other properties, as well as found and shared in the Content Commons.
+The CDP is the backend technology used to index content from a website, so that it can be synced on other properties, as well as found and shared in the Content Commons.
 
 ### How do I install the CDP plugin?
 
@@ -115,4 +147,4 @@ If you are interesting in installing the CDP plugin on your website to begin ind
 
 ### What happens to content that has been indexed when I change or delete it?
 
-When you update content that is being indexed by the CDP, the changes are automatically reflected in the Content Commons and any other website or property that is hosting your content. If you delete content, it will be deleted in the Content Commons and any sites hosting content through the CDP.
+When you update content that is being indexed by the CDP plugin, the changes are automatically reflected in the Content Commons and any other website or property that is embedding your content. If you delete content, it will be deleted in the Content Commons and removed from any sites embedding that content.

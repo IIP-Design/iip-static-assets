@@ -4,16 +4,16 @@ The Content Commons is the portal to search and share content from the U.S. Depa
 Share, embed, or download public diplomacy content to use on any channel or website — a campaign, program, or Embassy website, as well as Facebook, Twitter, and YouTube.
 
 ## How the Content Commons works
-Content embedded on your website will be automatically synced if you have installed our plugin. U.S. Department of State staff can add content to the Content Commons by installing the plugin or using the Content Publisher, which will allow U.S. Department of State staff and the public to search, discover, and share your content through the Content Commons.
+The Content Commons is powered by the Content Distribution Platform (CDP), the backend technology that provides the functionality to index and sync different content types from multiple sources. Content is added to the CDP through a website plugin or directly uploaded within the platform. This content is then searchable in the Content Commons and the CDP always keeps content up to date by resyncing when changes are made at the source. 
 
-The Content Commons is currently indexing videos with plans to add articles, courses, images, PDFs, audio, and more.
+The Content Commons allows users to search, discover, and share content from a variety of different sources and content types. Currently the Content Commons contains videos and articles with plans to add images, PDFs, audio, and more.
 
 The Content Commons makes finding and sharing public diplomacy content a better experience, to reach more people, tailor content to your audiences, and increase the influence of your content.
 
-> ## To request a video, ask questions, or provide feedback send us an email at [design@america.gov](mailto:design@america.gov).
+> ## To ask questions, or provide feedback send us an email at [design@america.gov](mailto:design@america.gov).
 
 ## Contact IIP
-For more information about the Content Commons, Content Publisher, or Content Distribution Platform (CDP), or to discuss opportunities to share or host content from IIP or the Department of State on your website, [contact IIP](mailto:design@america.gov).
+For more information about the Content Commons and the Content Distribution Platform (CDP), or to discuss opportunities to share or host content from IIP or the Department of State on your website, [contact IIP](mailto:design@america.gov).
 
 To explore the Department’s global social media presence, see a list of links to [official social media accounts](https://www.state.gov/r/pa/ode/socialmedia/index.htm) managed by U.S. embassies, consulates, and other missions.
 

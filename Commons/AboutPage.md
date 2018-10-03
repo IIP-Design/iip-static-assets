@@ -4,7 +4,9 @@ The Content Commons is the portal to search and share content from the U.S. Depa
 Share, embed, or download public diplomacy content to use on any channel or website — a campaign, program, or Embassy website, as well as Facebook, Twitter, and YouTube.
 
 ## How the Content Commons works
-The Content Commons is powered by the Content Distribution Platform (CDP), the backend technology that provides the functionality to index and sync different content types from multiple sources. Content is added to the CDP through a website plugin or directly uploaded within the platform. This content is then searchable in the Content Commons and the CDP always keeps content up to date by resyncing when changes are made at the source. 
+The Content Commons is powered by the Content Distribution Platform (CDP), the backend technology that provides the functionality to index and sync different content types from multiple sources. 
+
+Content is added to the CDP through a plugin or directly uploaded within the platform. This content is then searchable in the Content Commons and the CDP always keeps content up to date by resyncing when changes are made at the source. 
 
 The Content Commons allows users to search, discover, and share content from a variety of different sources and content types. Currently the Content Commons contains videos and articles with plans to add images, PDFs, audio, and more.
 

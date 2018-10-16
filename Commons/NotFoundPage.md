@@ -1,6 +1,6 @@
 
 > # Ooops!
-> # This usually isn't a common occurrance!
+> # This usually isn't a common occurrence!
 
 
 > ## Page not found - 404 error

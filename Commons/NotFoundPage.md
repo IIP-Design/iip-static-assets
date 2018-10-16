@@ -1,11 +1,11 @@
 
-> # Ooops!
-> # This usually isn't a common occurrence!
+> # OOPS!
+> # This usually isn't a common occurrence.
 
 
 > ## Page not found - 404 error
 
 
-> We regret to inform you that we were unable to find your content.
+> We are unable to find the page you are looking for.
 
-> We index content from multiple sites so if content is edited or deleted from the original source, it no longer shows up in the Content Commons.
+> Visit the Content Commons at [commons.america.gov](https://commons.america.gov) to search for PD content.

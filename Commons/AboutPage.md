@@ -14,6 +14,19 @@ The Content Commons makes finding and sharing public diplomacy content a better 
 
 > ## To ask questions, or provide feedback send us an email at [design@america.gov](mailto:design@america.gov).
 
+## Upcoming Enhancements
+### Fall/Winter 2018
+* **Commons Publisher –** upload videos, posters, books, and pamphlets to be discoverable on Content Commons
+* **Integrate content from outside IIP –** e.g. PA press briefings
+* **Documentation site –** resources for developers, webmasters, and content creators interested in connecting to the CDP and using its modules.
+
+### Spring/Summer 2019
+* **Image content types –** upload and search for imagery like photo albums, social media graphics, and editable design files and templates
+* **Robust Search –** enhance search capabilities to include searching in language and use Google's Natural Language API for better search experiences
+* **Analytics –** display content performance data to see how often a piece of content has been used and where
+* **User profiles –** update Content Commons to have role-based contributors and begin expanding access to Commons Publisher
+* **Social media integration –** connect Hootsuite to schedule social media posts for teams
+
 ## Contact IIP
 For more information about the Content Commons and the Content Distribution Platform (CDP), or to discuss opportunities to share or host content from IIP or the Department of State on your website, [contact IIP](mailto:design@america.gov).
 

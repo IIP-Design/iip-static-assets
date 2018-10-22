@@ -18,7 +18,7 @@ The Content Commons makes finding and sharing public diplomacy content a better 
 ### Fall/Winter 2018
 * **Commons Publisher –** upload videos, posters, books, and pamphlets to be discoverable on Content Commons
 * **Integrate content from outside IIP –** e.g. PA press briefings
-* **Documentation site –** resources for developers, webmasters, and content creators interested in connecting to the CDP and using its modules.
+* **Documentation site –** resources for developers, webmasters, and content creators interested in connecting to the CDP and using its modules
 
 ### Spring/Summer 2019
 * **Image content types –** upload and search for imagery like photo albums, social media graphics, and editable design files and templates
@@ -32,7 +32,7 @@ For more information about the Content Commons and the Content Distribution Plat
 
 To explore the Department’s global social media presence, see a list of links to [official social media accounts](https://www.state.gov/r/pa/ode/socialmedia/index.htm) managed by U.S. embassies, consulates, and other missions.
 
-Follow the IIP Bureau on Twitter [@IIPState](https://twitter.com/IIPState).
+Follow IIP on Twitter [@IIPState](https://twitter.com/IIPState).
 
 ## About IIP
 The Bureau of International Information Programs (IIP) belongs to the State Department’s [public diplomacy](https://www.state.gov/r/index.htm) (PD) family of bureaus, where it provides highly impactful content to PD practitioners and foreign publics to advance American foreign policy goals.

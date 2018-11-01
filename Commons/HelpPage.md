@@ -75,8 +75,8 @@ To contact us about adding additional features or for more information on update
 ### I don’t see the video file type I need.   
 Not all video file formats are going to be available for all files. If you need a specific file format, type or file size contact [design@america.gov](mailto:design@america.gov).
 
-### My download won't start. The download page isn't working. What now?
-We don’t mean to be un-diplomatic, but chances are very good that your browser or network are to blame. Since we’re all in the diplomacy business, we hope you can accept our apologies: Lo siento. 抱歉. آسف. Pardon. Before our relations deteriorate, please try these helpful troubleshooting tips.
+### My download won't start. The download button isn't working. What now?
+We don’t mean to be un-diplomatic, but chances are very good that your browser or network are to blame. Try accessing the video from a different browser (we recommend using Chrome for optimal performance) or check the network connection on your device to make sure it's strong, then try downloading again. 
 
 ### My download is taking FOREVER. How do I fix this?
 Go ahead and stop the download, then try clicking the link for downloading again (and if you're on wireless try plugging directly in). If the download stops again, or the speed is still slow, it could be that a firewall or other internet security tool is in the way.

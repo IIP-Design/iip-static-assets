@@ -41,6 +41,6 @@ IIP supports people-to-people conversations with foreign publics on U.S. policy 
 
 Whether discussions take place in person or in virtual spaces, the bureau’s top goal is to connect people with policy through dialogue that is relatable and understandable.
 
-## Privacy Policy
+## Terms of Service
 
 No additional permission is needed to share videos in their entirety from this website.  However, portions of videos on this website may contain licensed copyrighted material (for example, in the form of a photograph, image, video footage, or music).  Should you wish to use any copyrighted material from videos on this website, you should obtain appropriate permission from the holder(s) of copyright in such material.

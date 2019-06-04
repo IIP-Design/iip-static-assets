@@ -1,5 +1,5 @@
 ## Discover and share public diplomacy content from the U.S. Department of State
-The Content Commons is the portal to search and share content from the U.S. Department of State’s Bureau of International Information Programs (IIP).
+The Content Commons is the portal to search and share content from the U.S. Department of State’s Bureau of Global Public Affairs (GPA).
 
 Share, embed, or download public diplomacy content to use on any channel or website — a campaign, program, or Embassy website, as well as Facebook, Twitter, and YouTube.
 
@@ -18,7 +18,7 @@ The Content Commons makes finding and sharing public diplomacy content a better 
 ### Spring/Summer 2019
 * **Commons Publisher –** upload videos, posters, books, and pamphlets to be discoverable on Content Commons
 * **User profiles –** update Content Commons to have role-based contributors and begin expanding access to Commons Publisher
-* **Integrate additional content sources from outside IIP –** e.g. PA press briefings
+* **Integrate additional content sources from outside GPA –** e.g. PA press briefings
 * **Documentation site –** resources for developers, webmasters, and content creators interested in connecting to the CDP and using its modules
 
 ### Fall/Winter 2019
@@ -26,17 +26,15 @@ The Content Commons makes finding and sharing public diplomacy content a better 
 * **Analytics –** display content performance data to see how often a piece of content has been used and where
 * **Social media integration –** connect Hootsuite to schedule social media posts for teams
 
-## Contact IIP
-For more information about the Content Commons and the Content Distribution Platform (CDP), or to discuss opportunities to share or host content from IIP or the Department of State on your website, [contact IIP](mailto:design@america.gov).
+## Contact GPA
+For more information about the Content Commons and the Content Distribution Platform (CDP), or to discuss opportunities to share or host content from GPA or the Department of State on your website, [contact GPA](mailto:design@america.gov).
 
-To explore the Department’s global social media presence, see a list of links to [official social media accounts](https://www.state.gov/r/pa/ode/socialmedia/index.htm) managed by U.S. embassies, consulates, and other missions.
+To explore the Department’s global social media presence, see a list of links to [official social media accounts](https://www.state.gov/global-social-media-presence/) managed by U.S. embassies, consulates, and other missions.
 
-Follow IIP on Twitter [@IIPState](https://twitter.com/IIPState).
+## About GPA
+The Bureau of Global Public Affairs (GPA) belongs to the State Department’s [public diplomacy](https://www.state.gov/r/index.htm) (PD) family of bureaus, where it provides highly impactful content to PD practitioners and foreign publics to advance American foreign policy goals.
 
-## About IIP
-The Bureau of International Information Programs (IIP) belongs to the State Department’s [public diplomacy](https://www.state.gov/r/index.htm) (PD) family of bureaus, where it provides highly impactful content to PD practitioners and foreign publics to advance American foreign policy goals.
-
-IIP supports people-to-people conversations with foreign publics on U.S. policy priorities. To carry out this mission, the bureau leverages digital communications technology to reach across platforms - from traditional forms of communications to new media channels. IIP takes a strategic, data-driven approach to develop multimedia, digital communications products and to manage an overseas network of bricks-and-mortar [American Spaces](https://americanspaces.state.gov/home/).
+GPA supports people-to-people conversations with foreign publics on U.S. policy priorities. To carry out this mission, the bureau leverages digital communications technology to reach across platforms - from traditional forms of communications to new media channels. GPA takes a strategic, data-driven approach to develop multimedia, digital communications products and to manage an overseas network of bricks-and-mortar [American Spaces](https://americanspaces.state.gov/home/).
 
 Whether discussions take place in person or in virtual spaces, the bureau’s top goal is to connect people with policy through dialogue that is relatable and understandable.
 

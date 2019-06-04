@@ -2,11 +2,11 @@
 
 ### What is the Content Commons?
 
-The Content Commons is the portal to search, discover, and share content from the U.S. Department of State’s Bureau of International Information Programs (IIP).
+The Content Commons is the portal to search, discover, and share content from the U.S. Department of State’s Bureau of Global Public Affairs (GPA).
 
 ### Who manages the Content Commons?
 
-The U.S. Department of State’s Bureau of International Information Programs (IIP) manages the Content Commons and the Content Distribution Platform (CDP).
+The U.S. Department of State’s Bureau of Global Public Affairs (GPA) manages the Content Commons and the Content Distribution Platform (CDP).
 
 ### Where do I start?
 
@@ -14,7 +14,7 @@ Getting started is easy! Simply head to [commons.america.gov](https://commons.am
 
 ### What types of content can I find or store in the Content Commons?
 
-Currently, articles and videos are available in the Content Commons from ShareAmerica, Young African Leaders Initiative (YALI), Young Leaders of the Americas Initiative (YLAI), and IIP Video. 
+Currently, articles and videos are available in the Content Commons from ShareAmerica, Young African Leaders Initiative (YALI), Young Leaders of the Americas Initiative (YLAI), and GPA Video. 
 
 In the future more content sources will be added and we are working on adding PDFs, images, audio and other content types.
 
@@ -58,7 +58,7 @@ You can Download, Share, or Embed content directly from the Content Commons.
 
 Currently the Content Commons features content available in the following languages: English, French, Spanish, Chinese, Bahasa Indonesia, Portuguese, Arabic, Farsi, Russian, and Urdu. Note: Not all pieces of content are available in every language.
 
-### How can I contact IIP for support?
+### How can I contact GPA for support?
 
 If you have any questions, please contact [design@america.gov](mailto:design@america.gov).
 

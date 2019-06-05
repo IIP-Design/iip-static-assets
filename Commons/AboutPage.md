@@ -14,30 +14,13 @@ The Content Commons makes finding and sharing public diplomacy content a better 
 
 > ## To ask questions, or provide feedback send us an email at [design@america.gov](mailto:design@america.gov).
 
-## Upcoming Enhancements
-### Spring/Summer 2019
-* **Commons Publisher –** upload videos, posters, books, and pamphlets to be discoverable on Content Commons
-* **User profiles –** update Content Commons to have role-based contributors and begin expanding access to Commons Publisher
-* **Integrate additional content sources from outside GPA –** e.g. PA press briefings
-* **Documentation site –** resources for developers, webmasters, and content creators interested in connecting to the CDP and using its modules
-
-### Fall/Winter 2019
-* **Image content types –** upload and search for imagery like photo albums, social media graphics, and editable design files and templates
-* **Analytics –** display content performance data to see how often a piece of content has been used and where
-* **Social media integration –** connect Hootsuite to schedule social media posts for teams
-
 ## Contact GPA
 For more information about the Content Commons and the Content Distribution Platform (CDP), or to discuss opportunities to share or host content from GPA or the Department of State on your website, [contact GPA](mailto:design@america.gov).
 
 To explore the Department’s global social media presence, see a list of links to [official social media accounts](https://www.state.gov/global-social-media-presence/) managed by U.S. embassies, consulates, and other missions.
 
 ## About GPA
-The Bureau of Global Public Affairs (GPA) belongs to the State Department’s [public diplomacy](https://www.state.gov/r/index.htm) (PD) family of bureaus, where it provides highly impactful content to PD practitioners and foreign publics to advance American foreign policy goals.
-
-GPA supports people-to-people conversations with foreign publics on U.S. policy priorities. To carry out this mission, the bureau leverages digital communications technology to reach across platforms - from traditional forms of communications to new media channels. GPA takes a strategic, data-driven approach to develop multimedia, digital communications products and to manage an overseas network of bricks-and-mortar [American Spaces](https://americanspaces.state.gov/home/).
-
-Whether discussions take place in person or in virtual spaces, the bureau’s top goal is to connect people with policy through dialogue that is relatable and understandable.
+The mission of the [Bureau of Global Public Affairs (GPA)](https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/bureau-of-global-public-affairs/) is to serve the American people by effectively communicating U.S. foreign policy priorities and the importance of diplomacy to American audiences, and engaging foreign publics to enhance their understanding of and support for the values and policies of the United States.
 
 ## Terms of Service
-
 No additional permission is needed to share videos in their entirety from this website.  However, portions of videos on this website may contain licensed copyrighted material (for example, in the form of a photograph, image, video footage, or music).  Should you wish to use any copyrighted material from videos on this website, you should obtain appropriate permission from the holder(s) of copyright in such material.

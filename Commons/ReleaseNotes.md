@@ -1,5 +1,3 @@
-# Content Commons Release Notes
-
 ## 1.8.2
 **FIXED**
 - Limited categories to three items in the Latest and Priority sections to resolve a display issue.

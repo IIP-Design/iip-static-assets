@@ -1,7 +1,4 @@
-# Downloading Video Content
-_Please use Google Chrome for the best user experience._
-
-<hr>
+## Downloading Video Content
 
 Content Commons provides the ability to download Video content files directly from the site. 
 
@@ -9,7 +6,7 @@ This includes **Video** (.mp4, .mov), **Caption** (.srt), and **Transcript** (.p
 
 _**Please note that not all Video projects contain all of these file types.**_
 
-## Downloading Files
+### Downloading Files
 1. Navigate to https://commons.america.gov to begin searching for content.
 
 2. Click on a video search result to launch the preview window.

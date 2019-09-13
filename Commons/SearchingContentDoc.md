@@ -1,7 +1,4 @@
-# Searching for Content
-_Please use Google Chrome for the best user experience._
-
-<hr>
+## Searching for Content
 
 As of September 2019, Content Commons allows users to search from **Article** and **Video** content from a variety of sources. 
 

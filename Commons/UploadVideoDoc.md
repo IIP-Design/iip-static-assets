@@ -1,17 +1,14 @@
-# Uploading a Video to Content Commons
-*Please use Google Chrome for the best user experience.*
+## Uploading a Video to Content Commons
 
-<hr>
-
-## Gather Files
+### Gather Files
 Before getting started with a video project, gather all the associated files and have them ready for upload.
 
 Quick Tip: It helps to have all the files in the same folder. This allows you to easily find them all in one place. 
 
-## Login to Content Commons
+### Login to Content Commons
 Navigate to https://commons.america.gov/login to access your account and Dashboard. If you do not have a user profile, see How to Create a User Profile.
 
-## Creating a New Video Project
+### Creating a New Video Project
 1. Click the **upload button icon** at the top right hand side of the browser window. It is the icon that looks like a cloud with an upward pointing arrow. This will bring you to Upload Content Screen.
 
     <!--- IMAGE: Upload icon in top right menu --->
@@ -30,7 +27,7 @@ Navigate to https://commons.america.gov/login to access your account and Dashboa
 
     - We recommend naming your files descriptively using keywords or languages, ex: `project-title_arabic.mp4`, to help pre-populate metadata fields and save time when uploading.
 
-### Add Metadata for Prepared Files
+#### Add Metadata for Prepared Files
 1. **Add additional metadata values** for each of the files you have uploaded then select **Next**.
 
     <!--- IMAGE: Preparing Files Step 1 Image (Video, SRT, JPG, Transcript) --->

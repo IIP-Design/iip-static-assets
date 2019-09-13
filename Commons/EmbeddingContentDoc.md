@@ -1,11 +1,8 @@
-# Embedding Video and Article Content
-_Please use Google Chrome for the best user experience._
-
-<hr>
+## Embedding Video and Article Content
 
 Content Commons provides the ability to embed **Video** and **Article** content directly within your site through the use of embed codes.
 
-## Video and Articles
+### Video and Articles
 1. Navigate to https://commons.america.gov to begin searching for content.
 
 2. Click on a search result to pull up the preview window.

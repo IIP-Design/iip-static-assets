@@ -13,7 +13,7 @@ _**Please note that not all Video projects contain all of these file types.**_
 
 3. To access the downloadable files, click the *download icon* on the top right of the preview window.
 
-    <!--- IMAGE: Download Icon highlighted on preview window --->
+    ![Video Download Icon](https://iip-static-assets.s3.amazonaws.com/Images/video_download_icon.jpg)
 
     There are three types of files available to download for Video content:
       - **Video File**: .mp4 or .mov

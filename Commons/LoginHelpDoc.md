@@ -1,7 +1,4 @@
-# Signing Up and Logging In to Publisher
-*Please use Google Chrome for the best user experience.*
-
-<hr>
+## Signing Up and Logging In to Publisher
 
 1. Access the login page for **Content Commons** through the following URL: https://commons.america.gov/login. 
 

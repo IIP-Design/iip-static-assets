@@ -13,7 +13,7 @@ _**Please note that not all Video projects contain all of these file types.**_
 
 3. To access the downloadable files, click the *download icon* on the top right of the preview window.
 
- ![Video Download Icon](https://iip-static-assets.s3.amazonaws.com/Images/video_download_icon.jpg)
+![Video Download Icon](https://iip-static-assets.s3.amazonaws.com/Images/video_download_icon.jpg)
 
     There are three types of files available to download for Video content:
       - **Video File**: .mp4 or .mov
@@ -21,7 +21,7 @@ _**Please note that not all Video projects contain all of these file types.**_
       - **Transcript File**: .pdf version of the transcript file 
 
 
-![Video Download Icon](https://iip-static-assets.s3.amazonaws.com/Images/video_download_options.jpg)
+![Video Download Options](https://iip-static-assets.s3.amazonaws.com/Images/video_download_options.jpg)
 
 4. Click on the file type you wish to download. The download should start automatically or you will be prompted to select where you want your files to be saved.
 

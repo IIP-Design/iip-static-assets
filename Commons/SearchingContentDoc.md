@@ -40,7 +40,7 @@ By default, all results display in a gallery view. To switch to a list view, use
 
 To update the number of items listed on the page, use the drop-down selector below the display icons to choose a higher display quantity.
 
-![Search Number Items on Page](https://iip-static-assets.s3.amazonaws.com/Images/searching_content_result_number.jpg)>
+![Search Number Items on Page](https://iip-static-assets.s3.amazonaws.com/Images/searching_content_result_number.jpg)
 
 By default, all results display according to a weighted relevance. This can be changed to most recent by selecting the drop down at the top left of the content list.
 

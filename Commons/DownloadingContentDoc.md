@@ -15,14 +15,14 @@ _**Please note that not all Video projects contain all of these file types.**_
 
 ![Video Download Icon](https://iip-static-assets.s3.amazonaws.com/Images/video_download_icon.jpg)
 
-    There are three types of files available to download for Video content:
-      - **Video File**: .mp4 or .mov
-      - **SRT File**: .srt for the available caption files 
-      - **Transcript File**: .pdf version of the transcript file 
+  There are three types of files available to download for Video content:
+  - **Video File**: .mp4 or .mov
+  - **SRT File**: .srt for the available caption files 
+  - **Transcript File**: .pdf version of the transcript file 
 
 
 ![Video Download Options](https://iip-static-assets.s3.amazonaws.com/Images/video_download_options.jpg)
 
 4. Click on the file type you wish to download. The download should start automatically or you will be prompted to select where you want your files to be saved.
 
-If you are having issues downloading content, please refer to the Help Page for more information.
+If you are having issues downloading content, please refer to the [Help Page](https://commons.america.gov/help "Content Commons Help Page") for more information.

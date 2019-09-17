@@ -18,5 +18,5 @@ Content Commons provides the ability to embed **Video** and **Article** content 
 
 5. Paste the code directly into the text editor of the website page where you want to embed the video or article. Make sure to include the code in its entirety.
 
-If you are having issues embedding content, please refer to the Help Page for more information.
+If you are having issues embedding content, please refer to the [Help Page](https://commons.america.gov/help "Content Commons Help Page") for more information.
 

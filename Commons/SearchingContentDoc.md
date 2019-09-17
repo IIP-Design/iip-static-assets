@@ -46,4 +46,4 @@ By default, all results display according to a weighted relevance. This can be c
 
 ![Search Relevancy](https://iip-static-assets.s3.amazonaws.com/Images/searching_content_relevancy.jpg)
 
-If you are having issues searching for content, please refer to the Help Page for more information.
+If you are having issues searching for content, please refer to the [Help Page](https://commons.america.gov/help "Content Commons Help Page") for more information.

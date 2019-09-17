@@ -1,3 +1,5 @@
+### Additional Resources
+
 Please refer to the [Help Page](https://commons.america.gov/help "Content Commons Help Page") for additional resources, questions, and solutions for Content Commons.
 
 Learn more about Content Commons by visiting our [About Page](https://commons.america.gov/help "Content Commons About Page").

@@ -1,3 +1,10 @@
+## 1.8.3
+**ADDED**
+- Added a logo for VOA Editorial content
+
+**Changed**
+- Updated IIP Properties to GPA
+
 ## 1.8.2
 **FIXED**
 - Limited categories to three items in the Latest and Priority sections to resolve a display issue.

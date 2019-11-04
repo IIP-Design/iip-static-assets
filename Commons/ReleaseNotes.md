@@ -1,3 +1,7 @@
+## 1.8.4
+**ADDED**
+- Added a '5G' department priority section to the front page
+
 ## 1.8.3
 **ADDED**
 - Added a logo for VOA Editorial content

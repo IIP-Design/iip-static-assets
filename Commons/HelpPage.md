@@ -14,9 +14,9 @@ Getting started is easy! Simply head to [commons.america.gov](https://commons.am
 
 ### What types of content can I find or store in the Content Commons?
 
-Currently, articles and videos are available in the Content Commons from ShareAmerica, Young African Leaders Initiative (YALI), Young Leaders of the Americas Initiative (YLAI), and GPA Video. 
+Currently, articles and videos are available in the Content Commons from ShareAmerica, Young African Leaders Initiative (YALI), Young Leaders of the Americas Initiative (YLAI), GPA Video, and VOA Editorials. 
 
-In the future more content sources will be added and we are working on adding PDFs, images, audio and other content types.
+We are currently working on adding press content to the Content Commons. In the future more content sources will be added and we are working on adding PDFs, images, audio and other content types.
 
 ### Can anyone add content to the Content Commons?
 
@@ -33,6 +33,8 @@ You can Download, Share, or Embed content directly from the Content Commons.
     * Select the "Download video" icon on the top right of the video preview window. There you will see options to download the Video and .SRT files. 
 
 #### Share
+* Search Results
+    * To share your search results, including any filters you've selected, simply copy and share the page URL.
 * Articles
     * Select the "Share article" icon on the top right of the article preview window.
     * To share directly to social media, select the Facebook or Twitter icons.
@@ -54,9 +56,13 @@ You can Download, Share, or Embed content directly from the Content Commons.
     * Paste the embed code into the text editor of the site where you want to use the video.
     * **Note**: You must be able to embed videos from YouTube or Vimeo within your site. If the embed code does not work, please contact your site administrator.
 
+Please see the [Documentation](https://commons.america.gov/documentation) page for further help and resources.
+
 ### Is content available in my language?
 
-Currently the Content Commons features content available in the following languages: English, French, Spanish, Chinese, Bahasa Indonesia, Portuguese, Arabic, Farsi, Russian, and Urdu. Note: Not all pieces of content are available in every language.
+Currently the Content Commons features content available in the following languages: Arabic, Bahasa Indonesia, Chinese (Simplified), English, French, Japanese, Korean, Persian, Portuguese (Brazil), Russian, Spanish, Turkish, Urdu, and Vietnamese.
+
+**Note: Not all pieces of content are available in every language.**
 
 ### How can I contact GPA for support?
 
@@ -64,31 +70,33 @@ If you have any questions, please contact [design@america.gov](mailto:design@ame
 
 ### What are upcoming features or updates for the Content Commons?
 
-We are working on adding additional content types, including audio, PDFs, images, and more. Future enhancements throughout 2019, we will add additional features like user profiles, enhanced analytics, and more. 
+We are working on adding additional content types, including press content, audio, PDFs, images, and more. Future enhancements throughout 2020 will include additional features like user profiles, enhanced analytics, and more. 
 
 To contact us about adding additional features or for more information on updates, send an email to [design@america.gov](mailto:design@america.gov).
 
 ---
 
-## Video
+## FAQ
 
-### I don’t see the video file type I need.   
+### Video
+
+#### I don’t see the video file type I need.   
 Not all video file formats are going to be available for all files. If you need a specific file format, type or file size contact [design@america.gov](mailto:design@america.gov).
 
-### My download won't start. The download button isn't working. What now?
+#### My download won't start. The download button isn't working. What now?
 We don’t mean to be un-diplomatic, but chances are very good that your browser or network are to blame. Try accessing the video from a different browser (we recommend using Chrome for optimal performance) or check the network connection on your device to make sure it's strong, then try downloading again. 
 
-### My download is taking FOREVER. How do I fix this?
+#### My download is taking FOREVER. How do I fix this?
 Go ahead and stop the download, then try clicking the link for downloading again (and if you're on wireless try plugging directly in). If the download stops again, or the speed is still slow, it could be that a firewall or other internet security tool is in the way.
 
 Still no luck? Contact us to request a video [design@america.gov](mailto:design@america.gov).
 
-### I can't find my download on my computer. Help!  
+#### I can't find my download on my computer. Help!  
 If you're on a Mac and you weren't asked where to save your file, look in the Downloads folder.
 
 If you're using Windows, start by looking in your My Downloads and My Document folders. If your download isn't there, please try your download again. However, when you click download this time: 1) click Save (not Open) in the dialog that appears, and 2) in the subsequent dialog, choose a location for the file, but remember to note which folder you're saving to.
 
-### How do I unbundle / unzip my downloaded files?  
+#### How do I unbundle / unzip my downloaded files?  
 When you download a video from Content Commons, it arrives on your computer in a compressed format called .zip file. Before you can access your files, you'll need to decompress, or "unzip" it. Doing so is very easy:
 
 If you're on a Mac, double-click the file. You're done.
@@ -97,7 +105,7 @@ If you're on a PC, right-click the file and choose Extract All... You're done! D
 
 Still having issues? Email your issue to [design@america.gov](mailto:design@america.gov) for additional support.  For technical support issues please contact [support@america.gov](mailto:support@america.gov) or #tech-ambassadors channel on Slack.
 
-### When I try to unzip my content
+#### When I try to unzip my content
 ...I get an error message.
 ...I get a message saying the .zip file is empty.
 ...I'm prompted to enter a password.
@@ -116,10 +124,10 @@ To rename a file, locate the file on your computer and move to another easy to f
 
 If you have tried all of the above and still have not given up we recommend reaching out to [design@america.gov](mailto:design@america.gov) for additional support help. We promise to respond quickly.
 
-### I don’t see a Download option for the file I selected.  
+#### I don’t see a Download option for the file I selected.  
 Not all files on the Content Commons are available for download. In certain cases content owners may designate that a file not be immediately available for download either because that content is still being worked on, is embargoed, or content is available via request only. For additional information about requesting videos please reach out to [design@america.gov](mailto:design@america.gov).
 
-### Whats an SRT file and why is it important?  
+#### Whats an SRT file and why is it important?  
 A file with the .SRT file extension is a SubRip Subtitle file. These types of files hold video subtitle information like the start and end timecode of the text and the sequential number of subtitles.
 
 It's important to note that SRT files themselves are just text files that are used along with video data. This means the SRT file itself does not contain any video or audio data.

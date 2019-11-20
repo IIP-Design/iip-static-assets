@@ -59,6 +59,8 @@ This will launch the file explorer where you can select the files you wish to up
 
 4. On the bottom of the Project Details Page, you can view the files that have been added to the project: SRT Files, Additional Files, and Videos in Project.
 
+Click on the Videos in Project at the bottom of the page to add metadata to the language versions of the video. Clicking on them will open an edit window.
+
 ![Project Files Summary Section](https://iip-static-assets.s3.amazonaws.com/Images/upload_content_video_support_files.jpg)
 
 5. **Check the box** to agree to the Terms of Use for Content Commons.

@@ -86,3 +86,87 @@
 **FIXED**
 - Lots of fixes for how the site displays across different browsers and devices.
 - Searching on various special characters or blank searches no longer creates an error.
+
+## 1.5.2
+**CHANGED**
+- Replace DOS seal with svg version and remove multiple png instances.
+
+## 1.5.1
+**ADDED**
+- Make search icon clickable.
+- Remove site BETA tag and add the DOS Seal
+
+
+## 1.5.0
+**ADDED**
+- Add captions and alt text to images in the search results modal.
+
+**FIXED**
+- Define images to a maximum width of 100% to prevent them from overflowing the embed container.
+
+**CHANGED**
+- Use locale rather than language code to maintain project-wide consistency.
+
+## 1.4.3
+**CHANGED**
+- Set single article module portion of embed URL to an environmental variable
+
+## 1.4.2
+**FIXED**
+- Show languages displayed in language dropdown if a source exists within the language unit
+
+## 1.4.1
+**FIXED**
+- Fixed difficulty selecting icon links in popups
+
+## 1.4.0
+**ADDED**
+- Enhanced footer to include additional links and information
+- Added embed code generation to enable sharing of posts
+- Updated direct link for posts to point to original source
+
+**FIXED**
+- Fixed tabbed underline on video popups
+
+## 1.3.0
+**ADDED**
+- Embed code to display to embed both youtube and vimeo videos now active
+- Share windows now are either a popup for desktop or a new page for mobile
+
+**FIXED**
+- Caption toggle now operates correctly and loads correct video based on caption selection
+- Fixed direct link UI display
+
+## 1.2.0
+**ADDED**
+- Added Vimeo support
+- Provided a Vimeo/CloudFlare fallback option when YouTube is not available
+- Provided a sharable, direct link to the video page
+- Updated UI to provide "web" and "broadcast" video quality display
+- Updated various UI styles
+
+**UPDATED**
+Sources dropdown now sorted alphabetically
+
+## 1.1.0
+**ADDED**
+- Added Contact Us page
+- Added Browse all [type] link above each recents section on Landing page
+- Updated help text for video downloads
+- Source action creator now accepts an array of owners and not a string as it's search key
+- Created owners mappings in source action to (1) support inconsistent owner names and (2) assign a custom name
+
+## 1.0.0
+**ADDED**
+- Global search bar
+- Feedback form
+- About, Help, Privacy Policy pages
+- Filter search by Date, Forat, Source, Language and Category
+- Display search results in either gallery or list formats
+- Closable filter selections bubbles
+- Contextual number of results
+- Video and Article content types search
+- Modal window that houses selected item
+- Video modal
+- Article modal
+- Result pagination

@@ -1,3 +1,56 @@
+## 3.1.2
+**ADDED**
+- Venezuela priorities section to Home page
+
+**FIXED**
+- Registration issue throwing a type error on form submission
+- Twitter share did not automatically populate with applicable video or post
+
+## 3.1.1
+**FIXED**
+- Suppress mock data
+
+## 3.1.0
+**ADDED**
+- Add "Create New Package" button to upload screen to be used by Press Guidance team
+- Activate content type buttons on upload screen based on user's team permissions
+- Update Dashboard component to support Press Office packages
+- Created UserAdmin component to allow team switching for testing purposes
+- Allow upload of caption .vtt files
+- Set visibility flag on each asset to track internal only assets
+
+**CHANGED**
+- Code libraries were updated
+- Store full path to elastic search asset to accomodate sharing on external sites
+- Update help text on project detials screen
+
+**FIXED**
+- Bulk project Unpublish now removes assets for S3
+- SRT filename adjusted to support Facebook upload
+- Turned server side render off for user queries to fix cache issue
+
+## 3.0.0
+#### Version 3 is a complete rewrite with focus on the authoring platform. A jump is made to version 3 from 1.8.4 as v2 was an extension of v1 that did not include Server Side rendering (SSR).
+
+**ADDED**
+- Next.js integration and code restructure for Server Side rendering (SSR)
+- React apollo intergation for communication with the server and database
+- AWS integration for secure uploads to S3 via signed urls
+- Websocket integration for automatic page updates
+- User Authentication for logging in and logging out
+- User account creation annd registration
+- Authoring interface to create, update, delete, publish and unpublish video projects
+- Formik form validation
+- Ability to share search results
+- Numerous test files for various functionality
+- Documentation updated to include help with video upload and publishing
+
+**CHANGED**
+- Copy and share link for a video now lives in the 'Share' tab
+
+**REMOVED**
+- Language detection on search keystroke
+
 ## 1.8.4
 **ADDED**
 - Added a '5G' department priority section to the front page
@@ -6,7 +59,7 @@
 **ADDED**
 - Added a logo for VOA Editorial content
 
-**Changed**
+**CHANGED**
 - Updated IIP Properties to GPA
 
 ## 1.8.2
@@ -22,7 +75,7 @@
 - We added a new Department Priority section to be featured on the front page.
 - We then configured that Department Priority section to display the topic: Iran.
 
-**Changed**
+**CHANGED**
 - Updated styles to accomodate and feature the Department Priority section.
 - Updated text headings for the Recents section.
 

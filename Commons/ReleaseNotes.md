@@ -1,3 +1,11 @@
+## 3.1.4
+**FIXED**
+- Hide internal-only visibility option for videos until that view is made available.
+
+## 3.1.3
+**FIXED**
+- Re-order priorities sections on homepage
+
 ## 3.1.2
 **ADDED**
 - Venezuela priorities section to Home page

@@ -37,6 +37,7 @@ Quick Tip: It helps to have all the files in the same folder. This allows you to
 
 4. **Do not leave the page while upload is in progress.** A project status bar will show the completion percentage of the uploaded files.
 
+
 5. At the top right of the Package Details page, you have three options:
 
     ![Project Delete, Save, and Final Review](https://iip-static-assets.s3.amazonaws.com/Images/pg_save_package.jpg)
@@ -44,6 +45,7 @@ Quick Tip: It helps to have all the files in the same folder. This allows you to
     - **Delete Package**: Will delete the package and all files within it
     - **Save & Exit**: Will save the package and the uploaded files as draft, not visible on Content Commons
     - **Publish**: Will publish the package and all uploaded files
+
 
 6. On the Package Details page, fill in the remaining required metadata in order to complete your file upload and guidance package.
 
@@ -53,9 +55,11 @@ Quick Tip: It helps to have all the files in the same folder. This allows you to
     - **Visibility Setting**: All will automatically be set to Internal Use Only.
     - **Countries/Regions Tags**: Enter any tag keywords separated by commas.
 
+
 7. Once all metadata has been entered, verify all of the information within your package.
 
 8. To Publish your package, select **Publish**.
+
 
 ### Editing a Press Guidance Package
 1. Navigate to your user dashboard and select **Edit** under the title of the Guidance Package you wish to make changes to.
@@ -64,18 +68,22 @@ Quick Tip: It helps to have all the files in the same folder. This allows you to
 
 2. To **Remove Files**, select the Edit option next to Uploaded Files. **Select** the `X` next to the pieces of guidance you wish to remove.
 
+
 3. To **Add Files**, select the Edit option next to Uploaded Files. At the bottom of the Edit Package Files box, select **Add Files** button. Add your files and then select **Save**. *Additionally, you can Add Files using the **+Add Files** button at the bottom of the Package Details edit page.
 
     ![Press Guidance Unpublish](https://iip-static-assets.s3.amazonaws.com/Images/pg_unpublish_package.jpg)
+
 
 4. Once all changes have been made, select the **Publish** button to update the Press Guidance Package.
 
 ### Deleting a Press Guidance Package
 1. Navigate to your user dashboard and select **Edit** under the title of the Guidance Package you wish to make changes to.
 
+
 2. At the top right of the Package Details page, select **Unpublish** if the package is currently in a Published state.
 
     ![Press Guidance Delete Package](https://iip-static-assets.s3.amazonaws.com/Images/pg_delete_package.jpg)
+
 
 3. Once the package is unpublished, select **Delete** to delete the package from the system.
 

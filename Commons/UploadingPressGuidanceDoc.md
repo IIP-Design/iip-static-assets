@@ -24,6 +24,7 @@ Quick Tip: It helps to have all the files in the same folder. This allows you to
 
     - We recommend naming your files descriptively using the titles of the releases, ex: `international_human_rights_day.docx`, to help pre-populate metadata fields and save time when uploading.
 
+
 3. Add Metadata (Release Type, Lead Bureaus, etc.) for Prepared Files
 
     Step 1: Add Metadata for each of the files you have uploaded.

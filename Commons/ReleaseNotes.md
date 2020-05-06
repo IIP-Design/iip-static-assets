@@ -1,6 +1,11 @@
-## 4.0.0
+## 4.1.0
+**CHANGED**
 
-**ADDED:**
+- Packages on landing page now sort by created date
+- Removed Facebook and Twitter sharing options for video
+
+## 4.0.0
+**ADDED**
 - Add redirect to previous url on successful login
 - Add ability for subscriber to see restricted content
 - Add uploading documentation for press guidance
@@ -14,14 +19,14 @@
 - Add Packages to priorities section
 - Add country filter search for documents
 
-**CHANGED:**
+**CHANGED**
 
 - Replaced h1 elements in the footer with divs in the interest of improved accessibility
 - Replaced GTM implemenation with React app
 - Google authentication through CloudFlare access
 - State.gov authentication through CloudFlare access using one time pin
 
-**FIXED:**
+**FIXED**
 
 - Fixed the broken feedback link in the user profile dropdown and added feedback link as variable in config file
 

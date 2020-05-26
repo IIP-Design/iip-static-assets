@@ -1,6 +1,17 @@
+## 4.1.1
+**ADDED**
+- Google Tag Manager Containers for production and development environments
+
+**CHANGED**
+- Videos with subtitles now display by default if available
+
+**FIXED**
+- Login now properly redirects to CloudFlare on mobile
+- Escape special characters when setting AWS S3 key for upload to address issues with download and display
+- Added 'name' property to Elastic tag to ensure 'Coronavirus' surfaces in search
+
 ## 4.1.0
 **CHANGED**
-
 - Packages on landing page now sort by created date
 - Removed Facebook and Twitter sharing options for video
 
@@ -20,7 +31,6 @@
 - Add country filter search for documents
 
 **CHANGED**
-
 - Replaced h1 elements in the footer with divs in the interest of improved accessibility
 - Replaced GTM implemenation with React app
 - Google authentication through CloudFlare access

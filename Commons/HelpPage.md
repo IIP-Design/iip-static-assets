@@ -79,7 +79,6 @@ To contact us about adding additional features or for more information on update
 ## FAQ
 
 ### Logging In and User Access
-<a id="logging-in"></a>
 
 To login, navigate to the [Login Page](https://commons.america.gov/login) and use your America.gov or State.gov account for authentication.
 

@@ -1,4 +1,4 @@
-## Content Commons
+## Content Commons 
 
 ### What is the Content Commons?
 
@@ -26,7 +26,7 @@ However, if you are interested in indexing your site or adding content to the Co
 
 ### How do I share content from the Content Commons?
 
-You can Download, Share, or Embed content directly from the Content Commons.
+You can Download, Share, or Embed content directly from the Content Commons. 
 
 #### Download
 * Videos
@@ -70,13 +70,32 @@ If you have any questions, please contact [design@america.gov](mailto:design@ame
 
 ### What are upcoming features or updates for the Content Commons?
 
-We are working on adding additional content types, including press content, audio, PDFs, images, and more. Future enhancements throughout 2020 will include additional features like user profiles, enhanced analytics, and more. 
+We are working on adding additional content types and updates to the platform. Future enhancements throughout 2020 will include additional features like user profiles, enhanced analytics, and more. 
 
 To contact us about adding additional features or for more information on updates, send an email to [design@america.gov](mailto:design@america.gov).
 
 ---
 
 ## FAQ
+
+### Logging In and User Access
+<a id="logging-in"></a>
+
+To login, navigate to the [Login Page](https://commons.america.gov/login) and use your America.gov or State.gov account for authentication.
+
+#### Having trouble logging in?
+
+Make sure you are using your America.gov or State.gov account. If you receive an error when logging in, try refreshing the page. Additionally, make sure that only one Content Commons login page is open in your browser. 
+
+If you are using your State.gov account, you will receive a login code and login link. You can use either to confirm your account and login. Please note that this email can take up to 3-5 minutes to receive. Each pair of login codes and links can only be used once. If you receive an error, or the code or link does not work, refresh the page and request a new code for logging in.
+
+If you are still receiving a login error, please reach out to [design@america.gov](mailto:design@america.gov).
+
+#### Issues with account access for publishing content?
+
+If you have not registered for uploading content, logging in with your America.gov or State.gov account will automatically give you subscriber access to the Content Commons.
+
+If you need access to upload content, notify your team's admin or contact [design@america.gov](mailto:design@america.gov).
 
 ### Video
 

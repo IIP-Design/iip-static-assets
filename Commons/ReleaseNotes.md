@@ -1,3 +1,14 @@
+## 4.2.0
+**ADDED**
+- Functionality to download all documents in a package to a single zip file
+
+**CHANGED**
+- Documents Format filter label to "Press Releases and Guidance” to better reflect type
+- Searching by Package now includes documents so Package search returns results
+
+**REMOVED**
+- Guidance Packages as an option in Format filter options
+
 ## 4.1.1
 **ADDED**
 - Google Tag Manager Containers for production and development environments

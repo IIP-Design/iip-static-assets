@@ -12,10 +12,10 @@ The Content Commons allows users to search, discover, and share content from a v
 
 The Content Commons makes finding and sharing public diplomacy content a better experience, to reach more people, tailor content to your audiences, and increase the influence of your content.
 
-> ## To ask questions, or provide feedback send us an email at [design@america.gov](mailto:design@america.gov).
+> ## To ask questions, or provide feedback send us an email at [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
 
 ## Contact GPA
-For more information about the Content Commons and the Content Distribution Platform (CDP), or to discuss opportunities to share or host content from GPA or the Department of State on your website, [contact GPA](mailto:design@america.gov).
+For more information about the Content Commons and the Content Distribution Platform (CDP), or to discuss opportunities to share or host content from GPA or the Department of State on your website, [contact GPA](mailto:gpadigitalhelp@state.gov).
 
 To explore the Department’s global social media presence, see a list of links to [official social media accounts](https://www.state.gov/global-social-media-presence/) managed by U.S. embassies, consulates, and other missions.
 

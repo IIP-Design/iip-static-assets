@@ -66,7 +66,7 @@ Currently the Content Commons features content available in the following langua
 
 ### How can I contact GPA for support?
 
-If you have any questions, please contact [design@america.gov](mailto:design@america.gov).
+If you have any questions, please contact [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
 
 ### What are upcoming features or updates for the Content Commons?
 

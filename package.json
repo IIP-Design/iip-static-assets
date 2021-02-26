@@ -1,0 +1,17 @@
+{
+  "name": "iip-static-assets",
+  "version": "1.0.0",
+  "description": "Repository to store static assets",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server -p 3030 --cors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IIP-Design/iip-static-assets.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}

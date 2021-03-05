@@ -7,8 +7,7 @@
         "order": 1,
         "props": {
           "postType": "package",
-          "locale": "en-us",
-          "pin": ["ckcaz2l980ja90834yqyj23t8"]
+          "locale": "en-us"
         }
       }
     ],

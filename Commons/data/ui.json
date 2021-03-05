@@ -84,7 +84,7 @@
         "component": "Priorities",
         "order": 5,
         "props": {
-          "term": "asylum refugee",
+          "term": "immigration",
           "label": "Immigration",
           "categories": [],
           "tags": ["immigration"],

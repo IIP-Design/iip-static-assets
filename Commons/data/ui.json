@@ -74,7 +74,7 @@
         }
       },
       {
-        "key": "priorities_5",
+        "key": "priorities_6",
         "component": "Priorities",
         "order": 7,
         "props": {

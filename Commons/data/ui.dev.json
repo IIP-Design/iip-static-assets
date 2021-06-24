@@ -10,13 +10,23 @@
           "locale": "en-us",
           "pin": ["ck8ep1l011fv807927spsh8i8"]
         }
+      },
+      {
+        "key": "playbooks_1",
+        "component": "Playbooks",
+        "order": 2,
+        "props": {
+          "postType": "playbook",
+          "locale": "en-us",
+          "pin": []
+        }
       }
     ],
     "public": [
       {
         "key": "priorities_1",
         "component": "Priorities",
-        "order": 2,
+        "order": 3,
         "props": {
           "label": "COVID-19 Recovery",
           "term": ["coronavirus", "covid-19"], 
@@ -28,7 +38,7 @@
       {
         "key": "priorities_2",
         "component": "Priorities",
-        "order": 3,
+        "order": 4,
         "props": {
           "label": "Climate Crisis",
           "term": ["climate change"], 
@@ -40,7 +50,7 @@
       {
         "key": "priorities_3",
         "component": "Priorities",
-        "order": 4,
+        "order": 5,
         "props": {
           "label": "Refugees and Migration",
           "term": ["refugees", "migration"],
@@ -52,7 +62,7 @@
       {
         "key": "priorities_4",
         "component": "Priorities",
-        "order": 5,
+        "order": 6,
         "props": {
           "label": "Human Rights",
           "term": ["human rights"],
@@ -64,7 +74,7 @@
       {
         "key": "priorities_5",
         "component": "Priorities",
-        "order": 6,
+        "order": 7,
         "props": {
           "label": "China Relations",
           "term": ["china"],
@@ -76,7 +86,7 @@
       {
         "key": "priorities_6",
         "component": "Priorities",
-        "order": 7,
+        "order": 8,
         "props": {
           "label": "Alliances and Partnerships",
           "term": ["alliances", "partnerships"],
@@ -88,7 +98,7 @@
       {
         "key": "recents_1",
         "component": "Recents",
-        "order": 8,
+        "order": 9,
         "props": {
           "postType": "video",
           "locale": "en-us"
@@ -97,7 +107,7 @@
       {
         "key": "recents_2",
         "component": "Recents",
-        "order": 9,
+        "order": 10,
         "props": {
           "postType": "post",
           "locale": "en-us"
@@ -106,7 +116,7 @@
       {
         "key": "recents_3",
         "component": "Recents",
-        "order": 10,
+        "order": 11,
         "props": {
           "postType": "graphic",
           "locale": "en-us"

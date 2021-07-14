@@ -10,6 +10,16 @@
           "locale": "en-us",
           "pin": ["cklwr863j0ldz0735fx875ruh"]
         }
+      },
+      {
+        "key": "playbooks_1",
+        "component": "Playbooks",
+        "order": 2,
+        "props": {
+          "postType": "playbook",
+          "locale": "en-us",
+          "pin": []
+        }
       }
     ],
     "public": [

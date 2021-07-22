@@ -76,7 +76,7 @@
         "component": "Priorities",
         "order": 6,
         "props": {
-          "label": "China Relations",
+          "label": "China",
           "term": ["china"],
           "categories": [],
           "tags": [],

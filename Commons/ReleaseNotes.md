@@ -1,3 +1,31 @@
+## 5.6.1
+
+**ADDED**
+
+- Added the Playbook content type.  Playbooks can be uploaded and managed by any team with the appropriate permissions. Playbooks can be viewed and shared by users logged into the system.
+- Added a rich text editor to allow for more robust authoring capabilities
+- Added the Global Campaigns Strategy Unit team
+- Added Priority Policies to tag, track and better display administration policies
+- Added an initially published state to reflect a package’s first publish and to serve as a reference point for future package updates
+- Added Skip to content link for improved accessibility
+- Added New Relic application performance monitoring
+ 
+**CHANGED**
+
+- Created a single workflow to handle both Press Guidance and Playbook creation.
+- Added the Playbook priority section to the homepage for all logged in users. Surface playbooks in search
+- Removed the list view from the Browse All page for all content types
+- Improved accessibility across the client frontend system
+- Redesigned recent/relevance dropdown
+- Converted various components to use CSS modules
+- Replaced a number of Semantic UI components with native HTML elements
+- Labelled the “Additional Resources” file types in a user friendly manner on the front end (eg. Word Document vs. docx)
+
+**FIXED**
+
+- Fixed scrolling arrows on the Dashboard to only display when columns do not fit on screen
+- Fixed issue that caused the search filters to be removed when the "CLEAR ALL" button lost focus
+
 ## 5.2.0
 
 **ADDED**

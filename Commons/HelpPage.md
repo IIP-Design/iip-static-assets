@@ -2,7 +2,7 @@
 
 ### What is the Content Commons?
 
-The Content Commons is the portal to search, discover, and share content from the U.S. Department of State’s Bureau of Global Public Affairs (GPA).
+The Content Commons is the portal to search, discover, and share Public Diplomacy (PD) content from the U.S. Department of State’s Bureau of Global Public Affairs (GPA), PD sections in Regional and Functional bureaus, and Public Affairs sections at posts around the globe.
 
 ### Who manages the Content Commons?
 
@@ -12,11 +12,11 @@ The U.S. Department of State’s Bureau of Global Public Affairs (GPA) manages t
 
 Getting started is easy! Simply head to [commons.america.gov](https://commons.america.gov) and start searching or browsing content.
 
-### What types of content can I find or store in the Content Commons?
+### What types of content can I find in the Content Commons?
 
-Currently, articles and videos are available in the Content Commons from ShareAmerica, Young African Leaders Initiative (YALI), Young Leaders of the Americas Initiative (YLAI), GPA Video, and VOA Editorials. 
+Currently, press guidance, playbooks, articles, graphics, and videos are available in the Content Commons from ShareAmerica, Young African Leaders Initiative (YALI), Young Leaders of the Americas Initiative (YLAI), GPA Video, VOA Editorials, U.S.Missions, Regional Media Hubs, GPA Press Office, GPA Media Strategy, GPA Design & Editorial, ECA PASC, Bureau of African Affairs (AF), GPA Global Campaigns Strategy Unit.
 
-We are currently working on adding press content to the Content Commons. In the future more content sources will be added and we are working on adding PDFs, images, audio and other content types.
+In the future more content sources will be added.
 
 ### Can anyone add content to the Content Commons?
 
@@ -70,9 +70,9 @@ If you have any questions, please contact [gpadigitalhelp@state.gov](mailto:gpad
 
 ### What are upcoming features or updates for the Content Commons?
 
-We are working on adding additional content types and updates to the platform. Future enhancements throughout 2020 will include additional features like user profiles, enhanced analytics, and more. 
+We are working on adding additional content types and updates to the platform. Future enhancements throughout 2021 will include additional features like user profiles, email notifications, enhanced analytics, improved search capabilities, and more. 
 
-To contact us about adding additional features or for more information on updates, send an email to [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
+To contact us about adding additional features or for more information on updates, send an email to [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov) or submit a feedback on the Content Commons website.
 
 ---
 
@@ -99,7 +99,7 @@ If you need access to upload content, notify your team's admin or contact [gpadi
 ### Video
 
 #### I don’t see the video file type I need.   
-Not all video file formats are going to be available for all files. If you need a specific file format, type or file size contact [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
+Not all video file formats are going to be available for all files. If you need a specific file format, please contact [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
 
 #### My download won't start. The download button isn't working. What now?
 We don’t mean to be un-diplomatic, but chances are very good that your browser or network are to blame. Try accessing the video from a different browser (we recommend using Chrome for optimal performance) or check the network connection on your device to make sure it's strong, then try downloading again. 

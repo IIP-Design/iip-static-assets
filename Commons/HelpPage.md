@@ -1,59 +1,38 @@
 ## Content Commons 
 
-<details>
-<summary><strong>What is the Content Commons?</strong></summary>
-<br>
+### What is the Content Commons?
 
 The Content Commons is the portal to search, discover, and share Public Diplomacy (PD) content from the U.S. Department of State’s Bureau of Global Public Affairs (GPA), PD sections in Regional and Functional bureaus, and Public Affairs sections at posts around the globe.
-</details>
 
-<details>
-<summary><strong>Who manages the Content Commons?</strong></summary>
-    <br>
+### Who manages the Content Commons?
 
 The U.S. Department of State’s Bureau of Global Public Affairs (GPA) manages the Content Commons and the Content Distribution Platform (CDP).
-    </details>
 
-<details>
-<summary><strong>Where do I start?</strong></summary>
-    <br>
+### Where do I start?
 
 Getting started is easy! Simply head to [commons.america.gov](https://commons.america.gov) and start searching or browsing content.
-    </details>
 
-<details>
-<summary><strong>What types of content can I find in the Content Commons?</strong></summary>
-    <br>
+### What types of content can I find in the Content Commons?
 
 Currently, press guidance, playbooks, articles, graphics, and videos are available in the Content Commons from ShareAmerica, Young African Leaders Initiative (YALI), Young Leaders of the Americas Initiative (YLAI), GPA Video, VOA Editorials, U.S.Missions, Regional Media Hubs, GPA Press Office, GPA Media Strategy, GPA Design & Editorial, ECA PASC, Bureau of African Affairs (AF), GPA Global Campaigns Strategy Unit.
 
 In the future more content sources will be added.
-       </details>
 
-<details>
-<summary><strong>Can anyone add content to the Content Commons?</strong></summary>
-    <br>
+### Can anyone add content to the Content Commons?
 
 We are currently indexing sites from the Department of State, and only Department of State staff can use the Content Commons to add content. 
 
 However, if you are interested in indexing your site or adding content to the Content Commons, please contact [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
-      </details>
 
-<details>
-<summary><strong>How do I share content from the Content Commons?</strong></summary>
+### How do I share content from the Content Commons?
 
 You can Download, Share, or Embed content directly from the Content Commons. 
 
-<details>
-<summary><strong>Download</strong></summary>
-    <br>
+#### Download
 * Videos
     * Select the "Download video" icon on the top right of the video preview window. There you will see options to download the Video and .SRT files. 
-    </details>
 
-<details>
-<summary><strong>Share</strong></summary>
-     <br>
+#### Share
 * Search Results
     * To share your search results, including any filters you've selected, simply copy and share the page URL.
 * Articles
@@ -64,10 +43,8 @@ You can Download, Share, or Embed content directly from the Content Commons.
     * Select the "Share video" icon on the top right of the video preview window.
     * To share directly to social media, select the Facebook or Twitter icons.
     * To share a direct link to the video's preview page on the Content Commons, copy the Direct Link.
-     </details>
 
-<details>
-<summary><strong>Embed</strong></summary>
+#### Embed
 * Articles
     * Select the "Embed this article" icon on the top right of the article preview window.
     * Copy the embed code using the Copy button.
@@ -78,35 +55,24 @@ You can Download, Share, or Embed content directly from the Content Commons.
     * Copy the embed code using the Copy button.
     * Paste the embed code into the text editor of the site where you want to use the video.
     * **Note**: You must be able to embed videos from YouTube or Vimeo within your site. If the embed code does not work, please contact your site administrator.
-     </details>
 
 Please see the [Documentation](https://commons.america.gov/documentation) page for further help and resources.
-      </details>
 
-<details>
-<summary><strong>Is content available in my language?</strong></summary>
-    <br>
+### Is content available in my language?
 
 Currently the Content Commons features content available in the following languages: Arabic, Bahasa Indonesia, Chinese (Simplified), English, French, Japanese, Korean, Persian, Portuguese (Brazil), Russian, Spanish, Turkish, Urdu, and Vietnamese.
 
 **Note: Not all pieces of content are available in every language.**
-    </details>
 
-<details>
-<summary><strong>How can I contact GPA for support?</strong></summary>
-    <br>
+### How can I contact GPA for support?
 
 If you have any questions, please contact [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
-    </details>
 
-<details>
-<summary><strong>What are upcoming features or updates for the Content Commons?</strong></summary>
-    <br>
+### What are upcoming features or updates for the Content Commons?
 
 We are working on adding additional content types and updates to the platform. Future enhancements throughout 2021 will include additional features like user profiles, email notifications, enhanced analytics, improved search capabilities, and more. 
 
 To contact us about adding additional features or for more information on updates, send an email to [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov) or submit a feedback on the Content Commons website.
-    </details>
 
 ---
 
@@ -114,65 +80,41 @@ To contact us about adding additional features or for more information on update
 
 ### Logging In and User Access
 
-<details>
-<summary><strong>How do I log in?</strong></summary>
-    <br>
 To login, navigate to the [Login Page](https://commons.america.gov/login) and use your America.gov or State.gov account for authentication.
-     </details>
 
-<details>
-<summary><strong>Having trouble logging in?</strong></summary>
-    <br>
+#### Having trouble logging in?
 
 Make sure you are using your America.gov or State.gov account. If you receive an error when logging in, try refreshing the page. Additionally, make sure that only one Content Commons login page is open in your browser. 
 
 If you are using your State.gov account, you will receive a login code and login link. You can use either to confirm your account and login. Please note that this email can take up to 3-5 minutes to receive. Each pair of login codes and links can only be used once. If you receive an error, or the code or link does not work, refresh the page and request a new code for logging in.
 
 If you are still receiving a login error, please reach out to [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
-    </details>
 
-<details>
-<summary><strong>Issues with account access for publishing content?</strong></summary>
-    <br>
+#### Issues with account access for publishing content?
 
 If you have not registered for uploading content, logging in with your America.gov or State.gov account will automatically give you subscriber access to the Content Commons.
 
 If you need access to upload content, notify your team's admin or contact [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
-    </details>
 
 ### Video
 
-<details>
-<summary><strong>I don’t see the video file type I need.</strong></summary>
-    <br>
+#### I don’t see the video file type I need.   
 Not all video file formats are going to be available for all files. If you need a specific file format, please contact [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
-    </details>
 
-<details>
-<summary><strong>My download won't start. The download button isn't working. What now?</strong></summary>
-    <br>
+#### My download won't start. The download button isn't working. What now?
 We don’t mean to be un-diplomatic, but chances are very good that your browser or network are to blame. Try accessing the video from a different browser (we recommend using Chrome for optimal performance) or check the network connection on your device to make sure it's strong, then try downloading again. 
-    </details>
 
-<details>
-<summary><strong>My download is taking FOREVER. How do I fix this?</strong></summary>
-    <br>
+#### My download is taking FOREVER. How do I fix this?
 Go ahead and stop the download, then try clicking the link for downloading again (and if you're on wireless try plugging directly in). If the download stops again, or the speed is still slow, it could be that a firewall or other internet security tool is in the way.
 
 Still no luck? Contact us to request a video [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
-    </details>
 
-<details>
-<summary><strong>I can't find my download on my computer. Help!</strong></summary>
-    <br>
+#### I can't find my download on my computer. Help!  
 If you're on a Mac and you weren't asked where to save your file, look in the Downloads folder.
 
 If you're using Windows, start by looking in your My Downloads and My Document folders. If your download isn't there, please try your download again. However, when you click download this time: 1) click Save (not Open) in the dialog that appears, and 2) in the subsequent dialog, choose a location for the file, but remember to note which folder you're saving to.
-    </details>
 
-<details>
-<summary><strong>How do I unbundle / unzip my downloaded files?</strong></summary>
-    <br>
+#### How do I unbundle / unzip my downloaded files?  
 When you download a video from Content Commons, it arrives on your computer in a compressed format called .zip file. Before you can access your files, you'll need to decompress, or "unzip" it. Doing so is very easy:
 
 If you're on a Mac, double-click the file. You're done.
@@ -180,11 +122,8 @@ If you're on a Mac, double-click the file. You're done.
 If you're on a PC, right-click the file and choose Extract All... You're done! Don't see an "Extract All..." option? Try renaming the file to something simple, like "content.zip". The important thing is to make sure the name ends with ".zip". Then right-click it again. You should now see "Extract All..." in the menu. If you still don't see an Extract All... option, double-click the file. This will open a window listing the files inside. Press Ctrl+A to select all the files, then drag them into a folder or onto your desktop.
 
 Still having issues? Email your issue to [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov) for additional support.  For technical support issues please contact [support@america.gov](mailto:support@america.gov) or #tech-ambassadors channel on Slack.
-    </details>
 
-<details>
-<summary><strong>When I try to unzip my content</strong></summary>
-    <br>
+#### When I try to unzip my content
 ...I get an error message.
 ...I get a message saying the .zip file is empty.
 ...I'm prompted to enter a password.
@@ -202,17 +141,11 @@ If after re-downloading you still aren't having better luck even though the file
 To rename a file, locate the file on your computer and move to another easy to find location such as C:\temp or your Desktop. Right click or Control click on the file and select “Rename from the options. Rename your .zip file to something simple (e.g., "madeinheights.zip") and try unzipping again.
 
 If you have tried all of the above and still have not given up we recommend reaching out to [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov) for additional support help. We promise to respond quickly.
-    </details>
 
-<details>
-<summary><strong>I don’t see a Download option for the file I selected.</strong></summary>
-    <br>
+#### I don’t see a Download option for the file I selected.  
 Not all files on the Content Commons are available for download. In certain cases content owners may designate that a file not be immediately available for download either because that content is still being worked on, is embargoed, or content is available via request only. For additional information about requesting videos please reach out to [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
-    </details>
 
-<details>
-<summary><strong>Whats an SRT file and why is it important?</strong></summary>
-    <br> 
+#### Whats an SRT file and why is it important?  
 A file with the .SRT file extension is a SubRip Subtitle file. These types of files hold video subtitle information like the start and end timecode of the text and the sequential number of subtitles.
 
 It's important to note that SRT files themselves are just text files that are used along with video data. This means the SRT file itself does not contain any video or audio data.
@@ -222,32 +155,22 @@ It's important to note that SRT files themselves are just text files that are us
 Adding subtitles and captions to your videos ensures that all users regardless of ability or native language are able to access your content.
 
 Another thing to keep in mind is browsers and social platforms defaulting to muting the volume on videos that auto-play to avoid annoying users as they browse content. Having subtitles on your videos ensures that viewers can get your message regardless of whether or not they listen to the audio.
-    </details>
 
+
+Still have questions? Please contact [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
 
 ---
 
 ## CDP
 
-<details>
-<summary><strong>What is the Content Distribution Platform (CDP)?</strong></summary>
-    <br> 
+### What is the Content Distribution Platform (CDP)?
 
 The CDP is the backend technology used to index content from a website, so that it can be synced on other properties, as well as found and shared in the Content Commons.
-    </details>
 
-<details>
-<summary><strong>How do I install the CDP plugin?</strong></summary>
-    <br> 
+### How do I install the CDP plugin?
 
 If you are interesting in installing the CDP plugin on your website to begin indexing your content, contact [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
-    </details>
 
-<details>
-<summary><strong>What happens to content that has been indexed when I change or delete it?</strong></summary>
-    <br> 
+### What happens to content that has been indexed when I change or delete it?
 
 When you update content that is being indexed by the CDP plugin, the changes are automatically reflected in the Content Commons and any other website or property that is embedding your content. If you delete content, it will be deleted in the Content Commons and removed from any sites embedding that content.
-    </details>
-
-> ## Still have questions? Please contact [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).

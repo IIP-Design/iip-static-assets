@@ -1,8 +1,9 @@
 {
-  "name": "iip-static-assets",
+  "name": "@gpa-lab/static-assets",
   "version": "1.0.0",
+  "license": "MIT",
+  "author": "U.S. Department of State, Bureau of Global Public Affairs Digital Lab <gpa-lab@america.gov>",
   "description": "Repository to store static assets",
-  "main": "index.js",
   "scripts": {
     "dev": "http-server -p 3030 --cors"
   },
@@ -10,7 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/IIP-Design/iip-static-assets.git"
   },
-  "license": "MIT",
   "devDependencies": {
     "http-server": "^0.12.3"
   }

@@ -1,3 +1,24 @@
+## 5.7.0
+
+**ADDED**
+
+- Created a landing page for Policy Priorities : commons.america.gov/playbooks
+- Created landing pages for playbooks in each Policy Priority to improve user experience in searching, sharing, and bookmarking
+- Created a vanity link for each Playback to make sharing easier
+- Added Afghanistan as a new Policy Priority
+- Standardized usage of AWS Cognito authentication between various parts of the system
+
+**CHANGED**
+
+- Renamed Playbook section “Available Resources” to “Additional Resources”
+- Limit access to the public endpoint to only the application domain
+- Restructured application pages to remove older libraries
+
+**FIXED**
+
+- Formatting issues when text is pasted from One Drive Word files into the text editor
+- Pasting a specific URL into search will now take a user to the correct search result
+
 ## 5.6.1
 
 **ADDED**

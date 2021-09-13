@@ -1,3 +1,21 @@
+## 5.7.1
+
+**ADDED**
+
+- A ContentGrid component for eventual use in displaying rich content in playbooks
+
+**CHANGED**
+
+- Enforce unique titles for playbooks
+- Update the playbook edit form validation to ensure titles are unique
+- Add error states to notify the user when they need to alter the title
+- Improve mobile responsiveness for playbooks and switch to a true sticky footer
+- Add the GPA Front Office as a producer of policy priorities to the priorities page description
+
+**FIXED**
+
+- Flash of incorrect content before the search page was fully loaded
+
 ## 5.7.0
 
 **ADDED**

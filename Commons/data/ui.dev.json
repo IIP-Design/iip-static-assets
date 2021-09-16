@@ -88,8 +88,8 @@
         "component": "Priorities",
         "order": 8,
         "props": {
-          "label": "Alliances and Partnerships",
-          "term": ["alliances", "partnerships"],
+          "label": "Afghanistan",
+          "term": ["china"], 
           "categories": [],
           "tags": [],
           "locale": "en-us"

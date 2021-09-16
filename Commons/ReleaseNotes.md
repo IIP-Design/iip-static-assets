@@ -1,3 +1,42 @@
+## 5.7.1
+
+**ADDED**
+
+- A ContentGrid component for eventual use in displaying rich content in playbooks
+
+**CHANGED**
+
+- Enforce unique titles for playbooks
+- Update the playbook edit form validation to ensure titles are unique
+- Add error states to notify the user when they need to alter the title
+- Improve mobile responsiveness for playbooks and switch to a true sticky footer
+- Add the GPA Front Office as a producer of policy priorities to the priorities page description
+
+**FIXED**
+
+- Flash of incorrect content before the search page was fully loaded
+
+## 5.7.0
+
+**ADDED**
+
+- Created a landing page for Policy Priorities : commons.america.gov/playbooks
+- Created landing pages for playbooks in each Policy Priority to improve user experience in searching, sharing, and bookmarking
+- Created a vanity link for each Playback to make sharing easier
+- Added Afghanistan as a new Policy Priority
+- Standardized usage of AWS Cognito authentication between various parts of the system
+
+**CHANGED**
+
+- Renamed Playbook section “Available Resources” to “Additional Resources”
+- Limit access to the public endpoint to only the application domain
+- Restructured application pages to remove older libraries
+
+**FIXED**
+
+- Formatting issues when text is pasted from One Drive Word files into the text editor
+- Pasting a specific URL into search will now take a user to the correct search result
+
 ## 5.6.1
 
 **ADDED**

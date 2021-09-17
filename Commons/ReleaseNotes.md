@@ -1,3 +1,23 @@
+## 5.8.0
+
+**ADDED**
+
+- “Current Topics”, “Holidays & Events” and “Secretary Travel” categories to the taxonomy
+- “Additional Messaging Effort” section to the policy playbooks landing page to highlight selected categories
+- Category archive page accessed via a custom category url to display playbooks tagged with a specific category. This will improve user experience, organization of content, and bookmarking
+- Country drop-down field to the Playbook edit page to search Playbooks by country
+- Cache static content to improve performance
+
+**CHANGED**
+
+- Remove “Alliances and Partnerships” policy priority
+- Remove “Afghanistan” policy priority 
+- Standardize all categories and policies to use “&” instead of “and”
+
+**FIXED**
+
+- Gradient background on “Climate Change” priority on Policies page
+
 ## 5.7.1
 
 **ADDED**

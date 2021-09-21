@@ -25,4 +25,4 @@ jobs:
           role-session-name: StaticFilesSync
 
       - name: Copy static files to S3 bucket
-        run: aws s3 sync ./ s3://${{ secrets.AWS_BUCKET_NAME }} --include "Commons/*" --include "Images/*"
+        run: aws s3 sync ./ s3://${{ secrets.AWS_BUCKET_NAME }} --exclude ".git*/*" --exclude "package*.json"

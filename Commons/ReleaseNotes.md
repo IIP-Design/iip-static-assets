@@ -1,3 +1,11 @@
+## 5.9.0
+
+**ADDED**
+- Additional filter to the Search page to allow narrowing down search results by policy priority
+
+**FIXED**
+- Playbooks duplicate title error message now displays the link to the package with the same title
+
 ## 5.8.0
 
 **ADDED**

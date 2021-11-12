@@ -2,8 +2,8 @@
 
 **ADDED**
 - Email notifications for playbooks. Users can opt in/out of playbooks updates, including:
- - Any changes to an existing playbook
- - Notifications on newly published playbook
+   - Any changes to an existing playbook
+   - Notifications on newly published playbook
 - A confirmation page notifying a user of their change in preferences
 - Revert link to undo unintentional subscribe/unsubscribe actions
 - A collapsible section component to hide/show parts of a page. Applied to the playbook edit screen

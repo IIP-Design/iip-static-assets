@@ -1,3 +1,21 @@
+## 5.10.0
+
+**ADDED**
+- Email notifications for playbooks. Users can opt in/out of playbooks updates, including:
+ - Any changes to an existing playbook
+ - Notifications on newly published playbook
+- A confirmation page notifying a user of their change in preferences
+- Revert link to undo unintentional subscribe/unsubscribe actions
+- A collapsible section component to hide/show parts of a page. Applied to the playbook edit screen
+
+**CHANGED**
+- Disable the policy priorities filter on the search page when content that cannot be tagged with policy priority is not included in the search criteria
+
+## 5.9.1
+
+**FIXED**
+- Login from Okta Dashboard
+
 ## 5.9.0
 
 **ADDED**

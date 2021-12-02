@@ -1,3 +1,24 @@
+## 5.11.2
+
+**ADDED**
+- Subscriptions and Notifications documentation page
+
+## 5.11.1
+
+**CHANGED**
+- Re-enable user notifications
+
+## 5.11.0
+
+**ADDED**
+- Enable the ability to add rich content from Commons to playbooks
+- Content is automatically organized by type on playbook pages
+
+## 5.10.1
+
+**CHANGED**
+- Temporarily disable user notification
+
 ## 5.10.0
 
 **ADDED**

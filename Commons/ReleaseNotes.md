@@ -1,3 +1,70 @@
+## 5.11.2
+
+**ADDED**
+- Subscriptions and Notifications documentation page
+
+## 5.11.1
+
+**CHANGED**
+- Re-enable user notifications
+
+## 5.11.0
+
+**ADDED**
+- Enable the ability to add rich content from Commons to playbooks
+- Content is automatically organized by type on playbook pages
+
+## 5.10.1
+
+**CHANGED**
+- Temporarily disable user notification
+
+## 5.10.0
+
+**ADDED**
+- Email notifications for playbooks. Users can opt in/out of playbooks updates, including:
+   - Any changes to an existing playbook
+   - Notifications on newly published playbook
+- A confirmation page notifying a user of their change in preferences
+- Revert link to undo unintentional subscribe/unsubscribe actions
+- A collapsible section component to hide/show parts of a page. Applied to the playbook edit screen
+
+**CHANGED**
+- Disable the policy priorities filter on the search page when content that cannot be tagged with policy priority is not included in the search criteria
+
+## 5.9.1
+
+**FIXED**
+- Login from Okta Dashboard
+
+## 5.9.0
+
+**ADDED**
+- Additional filter to the Search page to allow narrowing down search results by policy priority
+
+**FIXED**
+- Playbooks duplicate title error message now displays the link to the package with the same title
+
+## 5.8.0
+
+**ADDED**
+
+- “Current Topics”, “Holidays & Events” and “Secretary Travel” categories to the taxonomy
+- “Additional Messaging Effort” section to the policy playbooks landing page to highlight selected categories
+- Category archive page accessed via a custom category url to display playbooks tagged with a specific category. This will improve user experience, organization of content, and bookmarking
+- Country drop-down field to the Playbook edit page to search Playbooks by country
+- Cache static content to improve performance
+
+**CHANGED**
+
+- Remove “Alliances and Partnerships” policy priority
+- Remove “Afghanistan” policy priority 
+- Standardize all categories and policies to use “&” instead of “and”
+
+**FIXED**
+
+- Gradient background on “Climate Change” priority on Policies page
+
 ## 5.7.1
 
 **ADDED**

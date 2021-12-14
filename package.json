@@ -12,6 +12,6 @@
     "url": "git+https://github.com/IIP-Design/iip-static-assets.git"
   },
   "devDependencies": {
-    "http-server": "^13.0.0"
+    "http-server": "^13.0.2"
   }
 }

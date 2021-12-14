@@ -1,0 +1,28 @@
+name: Sync Files to S3
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync_to_s3:
+    name: Upload static files to S3 bucket
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Load AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+          role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
+          role-external-id: ${{ secrets.AWS_ROLE_EXTERNAL_ID }}
+          role-duration-seconds: 1200
+          role-session-name: StaticFilesSync
+
+      - name: Copy static files to S3 bucket
+        run: aws s3 sync ./ s3://${{ secrets.AWS_BUCKET_NAME }} --exclude ".git*/*" --exclude "package*.json"

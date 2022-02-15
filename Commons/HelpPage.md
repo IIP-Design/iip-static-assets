@@ -60,7 +60,7 @@ Please see the [Documentation](https://commons.america.gov/documentation) page f
 
 ### Is content available in my language?
 
-Currently the Content Commons features content available in the following languages: Arabic, Bahasa Indonesia, Chinese (Simplified), English, French, Japanese, Korean, Persian, Portuguese (Brazil), Russian, Spanish, Turkish, Urdu, and Vietnamese.
+Currently the Content Commons features content available in the following languages: Arabic, Bahasa Indonesia, Chinese (Simplified), English, French, Hebrew, Japanese, Korean, Persian, Portuguese (Brazil), Russian, Spanish, Turkish, Urdu, and Vietnamese.
 
 **Note: Not all pieces of content are available in every language.**
 
@@ -70,7 +70,7 @@ If you have any questions, please contact [gpadigitalhelp@state.gov](mailto:gpad
 
 ### What are upcoming features or updates for the Content Commons?
 
-We are working on adding additional content types and updates to the platform. Future enhancements throughout 2021 will include additional features like user profiles, email notifications, enhanced analytics, improved search capabilities, and more. 
+We are working on adding new content types and updates to the platform. Future enhancements throughout 2022 will include additional features like user profiles, enhanced analytics, improved search capabilities, and more. 
 
 To contact us about adding additional features or for more information on updates, send an email to [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov) or submit a feedback on the Content Commons website.
 
@@ -80,19 +80,20 @@ To contact us about adding additional features or for more information on update
 
 ### Logging In and User Access
 
-To login, navigate to the [Login Page](https://commons.america.gov/login) and use your America.gov or State.gov account for authentication.
+To login, navigate to the [Login Page](https://commons.america.gov/login) and use your State.gov account for authentication.
+If you do not have a state.gov account but wish to access content on Commons, please contact [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
 
 #### Having trouble logging in?
 
-Make sure you are using your America.gov or State.gov account. If you receive an error when logging in, try refreshing the page. Additionally, make sure that only one Content Commons login page is open in your browser. 
+Make sure you are using your State.gov account. If you receive an error when logging in, try refreshing the page. Additionally, make sure that only one Content Commons login page is open in your browser. You can also access Content Commons through your Okta dashboard.
 
-If you are using your State.gov account, you will receive a login code and login link. You can use either to confirm your account and login. Please note that this email can take up to 3-5 minutes to receive. Each pair of login codes and links can only be used once. If you receive an error, or the code or link does not work, refresh the page and request a new code for logging in.
+If you are a non-enterprise user that has been activated, you will receive a login code and login link. You can use either to confirm your account and login. Please note that this email can take up to 3-5 minutes to receive. Each pair of login codes and links can only be used once. If you receive an error, or the code or link does not work, refresh the page and request a new code for logging in.
 
 If you are still receiving a login error, please reach out to [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
 
 #### Issues with account access for publishing content?
 
-If you have not registered for uploading content, logging in with your America.gov or State.gov account will automatically give you subscriber access to the Content Commons.
+If you have not registered for uploading content, logging in with your State.gov account will automatically give you subscriber access to the Content Commons.
 
 If you need access to upload content, notify your team's admin or contact [gpadigitalhelp@state.gov](mailto:gpadigitalhelp@state.gov).
 

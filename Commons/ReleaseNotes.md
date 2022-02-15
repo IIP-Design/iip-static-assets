@@ -1,3 +1,18 @@
+## 5.12.0
+
+**CHANGED**
+- Removed an option to log in with america.gov account
+
+## 5.11.4
+
+**CHANGED**
+- Increased the number of allowed Commons resources links to 100 for playbooks
+
+## 5.11.3
+
+**CHANGED**
+- Removed depreciated Elasticsearch _type search param
+
 ## 5.11.2
 
 **ADDED**

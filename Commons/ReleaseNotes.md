@@ -6,7 +6,7 @@
 ## 5.11.4
 
 **CHANGED**
-- Increased the number of allowed Commons resources links to 100 for playbooks
+- Increased the limit of allowed Commons resources links to 100 for playbooks
 
 ## 5.11.3
 

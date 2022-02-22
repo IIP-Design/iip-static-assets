@@ -1,3 +1,24 @@
+## 5.13.0
+
+**ADDED**
+- Support for the new Document type that allows content creators to upload PDF files as documents with a stand-alone page to display a single document content
+- Support for documents on the search results page
+- A modal for previewing documents on both the dashboard and in search results
+- Document as an available content type in the Format search filter
+- “Document” to the “Press Materials, Playbooks” search radio option on the homepage
+- “Mission & Post” dropdown to search for tagged content
+- “Bureaus & Offices” dropdown to search for tagged content
+- The Office of Analytics and Office of Research as available content owners in a Source dropdown on a search page
+
+**CHANGED**
+- The simulated back button on playbooks now directs users to the playbook landing page regardless of how they enter the page
+- Replace the countries dropdown on playbooks with a combined countries/regions dropdown
+
+**FIXED**
+- Add right to left support for search result items
+- Constrain the titles of featured items on the homepage to three lines
+- Remove CSS color property that was obscuring button text in certain circumstances
+
 ## 5.12.0
 
 **CHANGED**

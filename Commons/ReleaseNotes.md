@@ -1,6 +1,23 @@
+## 5.13.2
+
+**ADDED**
+
+- Support for Ukrainian language content
+
+**CHANGED**
+
+- Consider individual graphics (rather than just graphic projects) when determining what languages should appear in the search dropdown
+
+## 5.13.1
+
+**ADDED**
+
+- A "Featured" visual indicator to pinned playbooks on the homepage.
+
 ## 5.13.0
 
 **ADDED**
+
 - Support for the new Document type that allows content creators to upload PDF files as documents with a stand-alone page to display a single document content
 - Support for documents on the search results page
 - A modal for previewing documents on both the dashboard and in search results
@@ -11,10 +28,12 @@
 - The Office of Analytics and Office of Research as available content owners in a Source dropdown on a search page
 
 **CHANGED**
+
 - The simulated back button on playbooks now directs users to the playbook landing page regardless of how they enter the page
 - Replace the countries dropdown on playbooks with a combined countries/regions dropdown
 
 **FIXED**
+
 - Add right to left support for search result items
 - Constrain the titles of featured items on the homepage to three lines
 - Remove CSS color property that was obscuring button text in certain circumstances
@@ -22,63 +41,75 @@
 ## 5.12.0
 
 **CHANGED**
+
 - Removed an option to log in with america.gov account
 
 ## 5.11.4
 
 **CHANGED**
+
 - Increased the limit of allowed Commons resources links to 100 for playbooks
 
 ## 5.11.3
 
 **CHANGED**
-- Removed depreciated Elasticsearch _type search param
+
+- Removed depreciated Elasticsearch \_type search param
 
 ## 5.11.2
 
 **ADDED**
+
 - Subscriptions and Notifications documentation page
 
 ## 5.11.1
 
 **CHANGED**
+
 - Re-enable user notifications
 
 ## 5.11.0
 
 **ADDED**
+
 - Enable the ability to add rich content from Commons to playbooks
 - Content is automatically organized by type on playbook pages
 
 ## 5.10.1
 
 **CHANGED**
+
 - Temporarily disable user notification
 
 ## 5.10.0
 
 **ADDED**
+
 - Email notifications for playbooks. Users can opt in/out of playbooks updates, including:
-   - Any changes to an existing playbook
-   - Notifications on newly published playbook
+  - Any changes to an existing playbook
+  - Notifications on newly published playbook
 - A confirmation page notifying a user of their change in preferences
 - Revert link to undo unintentional subscribe/unsubscribe actions
 - A collapsible section component to hide/show parts of a page. Applied to the playbook edit screen
 
 **CHANGED**
+
 - Disable the policy priorities filter on the search page when content that cannot be tagged with policy priority is not included in the search criteria
 
 ## 5.9.1
 
 **FIXED**
+
 - Login from Okta Dashboard
 
 ## 5.9.0
 
 **ADDED**
+
 - Additional filter to the Search page to allow narrowing down search results by policy priority
 
 **FIXED**
+
 - Playbooks duplicate title error message now displays the link to the package with the same title
 
 ## 5.8.0
@@ -94,7 +125,7 @@
 **CHANGED**
 
 - Remove “Alliances and Partnerships” policy priority
-- Remove “Afghanistan” policy priority 
+- Remove “Afghanistan” policy priority
 - Standardize all categories and policies to use “&” instead of “and”
 
 **FIXED**
@@ -144,14 +175,14 @@
 
 **ADDED**
 
-- Added the Playbook content type.  Playbooks can be uploaded and managed by any team with the appropriate permissions. Playbooks can be viewed and shared by users logged into the system.
+- Added the Playbook content type. Playbooks can be uploaded and managed by any team with the appropriate permissions. Playbooks can be viewed and shared by users logged into the system.
 - Added a rich text editor to allow for more robust authoring capabilities
 - Added the Global Campaigns Strategy Unit team
 - Added Priority Policies to tag, track and better display administration policies
 - Added an initially published state to reflect a package’s first publish and to serve as a reference point for future package updates
 - Added Skip to content link for improved accessibility
 - Added New Relic application performance monitoring
- 
+
 **CHANGED**
 
 - Created a single workflow to handle both Press Guidance and Playbook creation.

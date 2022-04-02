@@ -1,3 +1,9 @@
+## 5.13.3
+
+**FIXED**
+
+- Add exhaustive property check for files dropdown list to fix issue causing crashes on the Press Office admin dashboard.
+
 ## 5.13.2
 
 **ADDED**

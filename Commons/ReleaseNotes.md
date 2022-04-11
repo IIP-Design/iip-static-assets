@@ -1,3 +1,14 @@
+## 5.13.4
+
+**ADDED**
+
+- Bureau of Cyberspace and Digital Policy (CDP) to the Bureau dropdown
+
+**CHANGED**
+
+- Rename "Bureau of Human Resources" to "Bureau of Global Talent Management"
+- The feedback button now points to a fan.gov version
+
 ## 5.13.3
 
 **FIXED**

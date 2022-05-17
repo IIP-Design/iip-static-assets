@@ -1,3 +1,9 @@
+## 5.13.5
+
+**FIXED**
+
+- Exclude document files associated with reports from the priorities sections since these files are not a stand-alone content type.
+
 ## 5.13.4
 
 **ADDED**

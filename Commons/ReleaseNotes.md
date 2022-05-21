@@ -1,3 +1,10 @@
+## 5.13.6
+
+**CHANGED**
+
+- Migrate backend database from MySQL to PostgreSQL and update Prisma to version 3.
+- Rename the image property on document files to comport with the new Prisma schema.
+
 ## 5.13.5
 
 **FIXED**

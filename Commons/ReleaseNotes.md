@@ -1,3 +1,12 @@
+## 5.13.7
+
+**FIXED**
+
+- Fix the user notification functionality, so that users are notified on playbook create or update.
+- Fixed unresponsive Playbook Priority Campaigns filter tiles.
+- Removed non-working press guidance database link.
+- Removed depreciated Infocentral link to older playbooks.
+
 ## 5.13.6
 
 **CHANGED**

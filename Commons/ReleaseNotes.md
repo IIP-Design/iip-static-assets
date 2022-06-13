@@ -1,11 +1,14 @@
 ## 5.13.7
 
+**CHANGED**
+
+- Removed outdated press guidance database link from the "Latest Guidance Packages" section and page footer.
+- Removed deprecated link to older playbooks on Infocentral.
+
 **FIXED**
 
-- Fix the user notification functionality, so that users are notified on playbook create or update.
-- Fixed unresponsive Playbook Priority Campaigns filter tiles.
-- Removed non-working press guidance database link.
-- Removed depreciated Infocentral link to older playbooks.
+- Correct error in playbook subscriptions, so that users are notified on playbook creation or updates.
+- Properly filter playbook landing pages based on policy priorities.
 
 ## 5.13.6
 

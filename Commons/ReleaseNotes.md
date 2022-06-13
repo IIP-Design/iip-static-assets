@@ -1,17 +1,29 @@
-## 5.13.6
+## 5.13.7 - June 10, 2022
+
+**CHANGED**
+
+- Removed outdated press guidance database link from the "Latest Guidance Packages" section and page footer.
+- Removed deprecated link to older playbooks on Infocentral.
+
+**FIXED**
+
+- Correct error in playbook subscriptions, so that users are notified on playbook creation or updates.
+- Properly filter playbook landing pages based on policy priorities.
+
+## 5.13.6 - May 20, 2022
 
 **CHANGED**
 
 - Migrate backend database from MySQL to PostgreSQL and update Prisma to version 3.
 - Rename the image property on document files to comport with the new Prisma schema.
 
-## 5.13.5
+## 5.13.5 - May 17, 2022
 
 **FIXED**
 
 - Exclude document files associated with reports from the priorities sections since these files are not a stand-alone content type.
 
-## 5.13.4
+## 5.13.4 - April 11, 2022
 
 **ADDED**
 
@@ -22,13 +34,13 @@
 - Rename "Bureau of Human Resources" to "Bureau of Global Talent Management"
 - The feedback button now points to a fan.gov version
 
-## 5.13.3
+## 5.13.3 - April 01, 2022
 
 **FIXED**
 
 - Add exhaustive property check for files dropdown list to fix issue causing crashes on the Press Office admin dashboard.
 
-## 5.13.2
+## 5.13.2 - March 23, 2022
 
 **ADDED**
 
@@ -38,13 +50,13 @@
 
 - Consider individual graphics (rather than just graphic projects) when determining what languages should appear in the search dropdown
 
-## 5.13.1
+## 5.13.1 - March 01, 2022
 
 **ADDED**
 
 - A "Featured" visual indicator to pinned playbooks on the homepage.
 
-## 5.13.0
+## 5.13.0 - February 18, 2022
 
 **ADDED**
 
@@ -68,13 +80,13 @@
 - Constrain the titles of featured items on the homepage to three lines
 - Remove CSS color property that was obscuring button text in certain circumstances
 
-## 5.12.0
+## 5.12.0 - January 25, 2022
 
 **CHANGED**
 
 - Removed an option to log in with america.gov account
 
-## 5.11.4
+## 5.11.4 - January 13, 2022
 
 **CHANGED**
 

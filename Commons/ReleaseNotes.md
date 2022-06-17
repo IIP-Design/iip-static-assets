@@ -1,3 +1,13 @@
+## 5.13.8 - June 17, 2022
+
+**ADDED**
+
+- Support for Kiswahili language content
+
+**FIXED**
+
+- Prevent the spontaneous reordering of documents on the page when editing/adding files in a press guidance package
+
 ## 5.13.7 - June 10, 2022
 
 **CHANGED**

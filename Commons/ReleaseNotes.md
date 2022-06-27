@@ -1,3 +1,11 @@
+## 5.13.9 - June 24, 2022
+
+**FIXED**
+
+- Ensure that the document list on the Package Edit screen updates properly when a document is added or removed
+
+**REMOVED**
+- Unused legacy sign-in, registration, and password reset pages and components
 ## 5.13.8 - June 17, 2022
 
 **ADDED**

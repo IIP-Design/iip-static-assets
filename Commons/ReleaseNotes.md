@@ -1,3 +1,15 @@
+## 5.14.1 - August 05, 2022
+
+**SECURITY**
+
+- Updated software dependencies.
+
+## 5.14.0 - July 12, 2022
+
+**ADDED**
+
+- An administrative dashboard for team and user management.
+
 ## 5.13.9 - June 24, 2022
 
 **FIXED**
@@ -5,7 +17,9 @@
 - Ensure that the document list on the Package Edit screen updates properly when a document is added or removed
 
 **REMOVED**
+
 - Unused legacy sign-in, registration, and password reset pages and components
+
 ## 5.13.8 - June 17, 2022
 
 **ADDED**

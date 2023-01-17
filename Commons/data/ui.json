@@ -8,8 +8,8 @@
         "props": {
           "postType": "package",
           "locale": "en-us",
-          "pin": [""] 
-        }           
+          "pin": [""]
+        }
       },
       {
         "key": "playbooks_1",
@@ -18,7 +18,7 @@
         "props": {
           "postType": "playbook",
           "locale": "en-us",
-          "pin": ["ckxp0t7yhv8d70761rsn5fd8l", "cl44q1ddj3172920hhpc91di8l2"]
+          "pin": ["clb40dfib9939420ni51p2fezs8"]
         }
       }
     ],
@@ -29,7 +29,7 @@
         "order": 3,
         "props": {
           "label": "COVID-19 Recovery",
-          "term": ["coronavirus", "covid-19"], 
+          "term": ["coronavirus", "covid-19"],
           "categories": [],
           "tags": [],
           "locale": "en-us"
@@ -41,7 +41,7 @@
         "order": 4,
         "props": {
           "label": "Climate Crisis",
-          "term": ["climate change"], 
+          "term": ["climate change"],
           "categories": [],
           "tags": [],
           "locale": "en-us"

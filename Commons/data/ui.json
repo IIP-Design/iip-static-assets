@@ -25,9 +25,7 @@
             "clnz7k0319318070hg9uedld0w7"
           ]
         }
-      }
-    ],
-    "public": [
+      },
       {
         "key": "priorities_0",
         "component": "Priorities",
@@ -39,7 +37,9 @@
           "tags": [],
           "locale": "en-us"
         }
-      },
+      }
+    ],
+    "public": [
       {
         "key": "priorities_1",
         "component": "Priorities",

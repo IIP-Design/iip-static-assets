@@ -89,6 +89,18 @@
         }
       },
       {
+        "key": "priorities_6",
+        "component": "Priorities",
+        "order": 7,
+        "props": {
+          "label": "Israel-Hamas Conflict",
+          "term": ["israel", "gaza", "hamas"],
+          "categories": [],
+          "tags": [],
+          "locale": "en-us"
+        }
+      },
+      {
         "key": "recents_1",
         "component": "Recents",
         "order": 8,
